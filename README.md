@@ -15,7 +15,7 @@ The project compares German BERT and DistilBERT models. Each model predicts, for
 
 An optional Sentence-BERT cosine-similarity objective is used as an auxiliary training signal.
 
-## 🚀 Usage / Schnellstart
+### 🚀 Usage / Schnellstart
 
 This model (`schnorrastrasser/audio2PANAS`) is a fine-tuned Multi-Task BERT architecture designed to predict item presence and Likert-scale intensity scores from text/audio-transcripts.
 
