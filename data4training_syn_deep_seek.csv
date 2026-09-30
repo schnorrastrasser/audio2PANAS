@@ -1,0 +1,1401 @@
+ID;Antwort_Text;aktiv;bekuemmert;interessiert;freudig_erregt;veraergert;stark;schuldig;erschrocken;feindselig;angeregt;stolz;gereizt;begeistert;beschaemt;wach;nervoes;entschlossen;aufmerksam;durcheinander;aengstlich;PA_Mean;NA_Mean
+1;"Ganz okay eigentlich. Bisschen müde, aber sonst passt das schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+2;"Puh, ehrlich gesagt ziemlich im Stress gerade. Also, bei der Arbeit brennt's an allen Ecken, ich komm kaum hinterher, und gleichzeitig hab ich so das Gefühl, ich müsste eigentlich noch tausend andere Sachen erledigen. Ist grad viel, aber ich krieg's schon irgendwie hin, denk ich.";0;3;0;0;0;0;0;0;0;0;0;3;0;0;0;3;0;0;3;0;0.0;1.2
+3;"Hm, schwer zu sagen. Also einerseits, äh, bin ich schon irgendwie traurig, weil meine Oma vor ein paar Wochen gestorben ist, das beschäftigt mich noch sehr. Aber gleichzeitig, komischerweise, hab ich auch so 'n bisschen Hoffnung, weißt du, weil die ganze Familie irgendwie näher zusammengerückt ist dadurch. Ist so 'n komisches Gemisch gerade, Trauer und trotzdem irgendwie Wärme.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.7
+4;"Mega gut! Ehrlich, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+5;"Joa, geht so. Nichts Besonderes, weder gut noch schlecht, einfach so'n normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+6;"Also ich muss ehrlich sagen, mir ist grad richtig mulmig. Ähm, ich hab morgen dieses wichtige Gespräch und ich krieg seit Tagen kaum Schlaf deswegen, das Herz rast mir schon beim Gedanken daran. Keine Ahnung, ich versuch mich irgendwie abzulenken aber es funktioniert nicht so richtig.";0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;5;0;0;3;5;0.0;1.6
+7;"Zufrieden, würd ich sagen. Nicht euphorisch oder so, aber im Reinen mit mir grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+8;"Also grundsätzlich okay, aber ich muss sagen, ich bin schon ein bisschen genervt. Mein Nachbar übt seit Wochen irgendein Instrument und das nervt einfach nur noch, ehrlich.";0;0;0;0;3;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.7
+9;"Weißt du, ich bin einfach nur fertig. Total ausgelaugt, seit Wochen schon, ich schlepp mich nur noch durch den Alltag, jeden Tag das Gleiche, aufstehen, arbeiten, schlafen, und dazwischen ist einfach nichts mehr, keine Energie für irgendwas, ich weiß auch grad nicht wie ich da rauskommen soll, ehrlich gesagt macht mir das auch ein bisschen Angst.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+10;"Ne, passt schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+11;"Also mir geht's richtig gut gerade, muss ich sagen. Bisschen aufgeregt auch, weil ich nächste Woche in den Urlaub fliege, das erste Mal seit Ewigkeiten wieder, und ja, ich freu mich einfach wie ein kleines Kind.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;2;0;0;0;0;1.0;0.2
+12;"Tja, keine Ahnung, irgendwie so mittendrin. Nicht schlecht, nicht gut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+13;"Ich bin, ähm, ich glaub ich bin grad ziemlich wütend, ehrlich gesagt. Also mein Chef hat mir heute wieder in letzter Minute was aufgedrückt und ich, ich koch grad innerlich, weißt du.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+14;"Erschöpft, aber zufrieden irgendwie. War 'n langer Arbeitstag, doch am Ende hab ich viel geschafft, also fühlt sich das gar nicht so schlimm an.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+15;"Ach, es geht. Nix Weltbewegendes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+16;"Also, wenn ich ehrlich bin, grad ziemlich überfordert. Da ist einfach so viel gleichzeitig, die Kinder, der Job, das Haus, und ich, ähm, ich weiß gar nicht mehr wo mir der Kopf steht manchmal. Aber gut, irgendwie funktioniert's ja noch, also, ja.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;4;0;0.0;1.0
+17;"Super entspannt heute. Hab endlich mal wieder Zeit für mich gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+18;"Hmm, na ja, bisschen wehmütig vielleicht. Hab grad alte Fotos durchgeschaut und das hat irgendwie so Erinnerungen hochgeholt, an früher, weißt du.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+19;"Alles bestens, danke der Nachfrage!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+20;"Also grundsätzlich läuft's, aber innerlich bin ich schon ziemlich unruhig. Ich warte nämlich auf ein Ergebnis, medizinisch, und das macht mich schon fertig, ich versuch nicht dran zu denken aber es geht halt nicht so einfach.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.4
+21;"Geht so, hab schon bessere Tage gehabt, aber auch schon schlechtere.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+22;"Puh, also ich bin grad total überwältigt, im positiven Sinne! Ich hab heute erfahren dass ich den Job bekommen hab, auf den ich mich beworben hab, und ich kann's noch gar nicht fassen, ehrlich, ich zittere noch fast.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;3;0;1.0;0.3
+23;"Naja, langweilig irgendwie. Nichts passiert grad, alles so eintönig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+24;"Ich fühl mich ehrlich gesagt ziemlich einsam grad. Also, die letzten Wochen war ich viel allein, und, äh, das merkt man dann schon, dieses Gefühl, dass irgendwas fehlt.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+25;"Top! Kann mich nicht beschweren.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+26;"Also es ist kompliziert. Einerseits bin ich froh, weil, ähm, endlich Wochenende ist, aber gleichzeitig mach ich mir Sorgen wegen der Prüfung nächste Woche, also so'n Mix aus Erleichterung und Anspannung gerade.";0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;3;0.3;0.9
+27;"Total gestresst muss ich sagen! Alles kommt grad auf einmal, keine Zeit zum Durchatmen!";0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;4;0;0;4;0;0.0;1.2
+28;"Ruhig. Einfach nur ruhig grad, tut gut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+29;"Also, ich weiß nicht genau. Bin irgendwie unmotiviert, so ein bisschen antriebslos, kann grad nicht so richtig erklären warum, ist einfach so'n Gefühl.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+30;"Sehr gut, danke! Hab heut Morgen richtig gut geschlafen und der Tag fühlt sich einfach leicht an.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.4;0.0
+31;"Na also, wenn ich ganz ehrlich bin, grad ziemlich am Boden zerstört. Meine Beziehung ist letzte Woche zu Ende gegangen und ich, ich weiß grad einfach nicht wie ich weitermachen soll, alles fühlt sich so leer an.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;3;0.0;1.2
+32;"Ganz gut, kleine Dellen halt, wie immer.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+33;"Also stolz bin ich grad, sehr stolz sogar. Hab mein Projekt fertig bekommen nach Monaten harter Arbeit und, ja, das fühlt sich einfach richtig gut an.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+34;"Müde. Nur müde grad, sonst nix.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+35;"Hm, verwirrt vielleicht, so'n bisschen. Es passiert grad so viel und ich weiß nicht so richtig wie ich das alles einordnen soll, weißt du.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.4
+36;"Es geht mir prächtig! Ehrlich, selten so gut gefühlt wie grad.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+37;"Also ich sag mal, im Großen und Ganzen zufrieden, aber es nagt schon was an mir, dieses Gespräch mit meiner Schwester neulich, das geht mir nicht aus dem Kopf.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+38;"Frustriert, ehrlich gesagt, ziemlich frustriert. Läuft grad einfach nicht wie's soll.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+39;"Also, komischerweise fühl ich mich grad richtig leicht, fast schon euphorisch, ähm, keine Ahnung warum genau, vielleicht liegt's am Wetter, aber ich lauf grad einfach rum und alles fühlt sich irgendwie gut an, so'n Gefühl hatte ich schon lang nicht mehr.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+40;"Ganz normal, nichts Aufregendes heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+41;"Also nervös bin ich schon, ja. Hab gleich ein Vorstellungsgespräch und, äh, die Hände zittern mir schon leicht, aber ich versuch das irgendwie in positive Energie umzuwandeln, sag ich mal.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;3;0;0;3;0.3;1.0
+42;"Mir geht's blendend, danke!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+43;"Puh, also traurig, aber auch irgendwie wütend gleichzeitig, weiß auch nicht warum genau, ist grad einfach viel Durcheinander in mir drin.";0;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;1.2
+44;"Entspannt und zufrieden, würd ich sagen. War 'n guter Tag bisher, keine großen Dramen, einfach nur ruhig alles.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+45;"Also, wenn ich ehrlich bin, ich fühl mich grad ziemlich unter Druck. Deadline rückt näher und ich hab das Gefühl ich schaff's nicht rechtzeitig, das macht mir schon ganz schön zu schaffen, ehrlich, ich merk das auch körperlich, so'n Druck auf der Brust irgendwie.";0;3;0;0;0;0;0;0;0;0;0;3;0;0;0;4;0;0;3;4;0.0;1.5
+46;"Ach, passabel. Nix Besonderes eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+47;"Also dankbar fühl ich mich grad, sehr dankbar sogar. Hab heut so viel Unterstützung von Freunden bekommen bei was Persönlichem, und das, ähm, das rührt mich schon sehr, ehrlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+48;"Genervt. Einfach nur genervt von allem grad.";0;0;0;0;4;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0.0;0.9
+49;"Hm, na ja, gemischte Gefühle würd ich sagen. Freu mich einerseits auf's Wochenende, aber andererseits mach ich mir auch Sorgen um meine Mutter, die grad im Krankenhaus liegt, also so'n bisschen hin- und hergerissen zwischen Vorfreude und Sorge.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;3;0.6;0.9
+50;"Richtig glücklich grad! Einfach nur glücklich, ohne großen Grund sogar!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+51;"Och, mittelmäßig. Nix Besonderes los grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+52;"Also ehrlich, ich bin grad ziemlich aufgewühlt. Hab heute so'n blödes Missverständnis mit meinem besten Freund gehabt und, äh, das sitzt schon noch, obwohl wir's geklärt haben, irgendwie bleibt da so'n komisches Gefühl zurück.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+53;"Alles super, danke!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+54;"Na ja, angespannt. Ziemlich angespannt sogar, wegen der Steuererklärung, die ich seit Wochen vor mir herschiebe.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;3;0.0;0.7
+55;"Puh, also grad total im Flow, weißt du. Alles läuft irgendwie wie von selbst heute, die Arbeit macht Spaß, das Wetter ist gut, ich hab sogar noch Zeit zum Joggen gefunden, fühlt sich einfach alles richtig an gerade, so'n seltener guter Tag.";5;0;0;5;0;0;0;0;0;4;0;0;5;0;0;0;0;4;0;0;2.3;0.0
+56;"Geht so, ein bisschen schlapp.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+57;"Also melancholisch, glaub ich. Herbst halt, und, ähm, diese Jahreszeit macht mich irgendwie immer ein bisschen nachdenklich, nicht schlecht, nur, ja, nachdenklich eben.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+58;"Wach und motiviert! Hab grad richtig Bock loszulegen heute.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0.9;0.0
+59;"Ich weiß nicht so recht. Irgendwie taub, emotional grad, als würd ich nix so richtig fühlen, weder gut noch schlecht, einfach nur da sein.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+60;"Ganz gut soweit.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+61;"Also panisch bin ich grad ehrlich gesagt, richtig panisch! Meine Präsentation ist in einer Stunde und ich bin noch nicht mal fertig damit, oh Gott, ich weiß grad gar nicht wo mir der Kopf steht.";0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;5;5;0.0;2.0
+62;"Zufrieden und ruhig, so würd ich's beschreiben. Nichts Aufregendes, aber auf 'ne gute Art.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+63;"Hmpf, sauer bin ich. Mein Auto ist kaputt gegangen und die Werkstatt will horrende Summen dafür, echt ärgerlich das Ganze.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+64;"Es geht mir wirklich gut, muss ich sagen, richtig entspannt und, ähm, auch irgendwie voller Vorfreude, weil am Wochenende meine Schwester zu Besuch kommt, die ich schon so lang nicht mehr gesehen hab, freu mich total drauf.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+65;"Neutral eigentlich. Weder besonders gut noch schlecht.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+66;"Ich bin grad, hm, so'n bisschen nostalgisch, hab grad alte Musik gehört von früher und das holt schon einiges hoch, aber auf 'ne schöne Art irgendwie.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+67;"Super gestresst! Umzug steht an und alles muss gleichzeitig fertig werden!";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;4;0;0;4;0;0.0;1.1
+68;"Also gelassen, würd ich sagen. Hab grad viel um die Ohren, aber irgendwie nehm ich's grad entspannter als sonst.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+69;"Ehrlich? Ziemlich am Limit. Also, ähm, seit Wochen schon dieser Dauerstress im Job, keine Pause, immer nur weiter, und ich merk das echt körperlich schon, Kopfschmerzen, schlecht schlafen, ich weiß auch grad nicht wie lang ich das noch durchhalte so.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;3;0.0;1.3
+70;"Alles gut bei mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+71;"Also aufgeregt bin ich, positiv aufgeregt. Heirate nächsten Monat und, ähm, das ist grad einfach überwältigend schön, dieses Gefühl.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+72;"Bisschen traurig, ehrlich gesagt. Kein bestimmter Grund, einfach so'n trüber Tag im Kopf.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+73;"Läuft, keine Klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+74;"Also im Moment fühl ich mich, hm, ziemlich unsicher was die Zukunft angeht. Der Job könnte wegfallen bald, und das macht mir schon Sorgen, auch wenn ich versuch, mir das nicht so anmerken zu lassen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+75;"Wunderbar! Einfach nur wunderbar heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+76;"Also frustriert und müde gleichzeitig, irgendwie. Der Tag war einfach zäh, nix wollte klappen.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+77;"Puh, also innerlich grad total zerrissen. Meine beste Freundin zieht nämlich weit weg, und ich freu mich für sie, wirklich, aber gleichzeitig, äh, bricht mir das schon fast das Herz, weil ich sie so vermissen werde, ist echt schwer grad, dieses Gefühl auszuhalten.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+78;"Ganz normal, keine großen Ausschläge nach oben oder unten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+79;"Erleichtert! Endlich, endlich ist die Prüfung vorbei!";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+80;"Also mürrisch bin ich heut, muss ich zugeben. Einfach schlecht geschlafen und seitdem nervt mich irgendwie alles.";0;0;0;0;3;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.7
+81;"Ich fühl mich grad richtig kraftvoll, weißt du, so als könnt ich Bäume ausreißen. Hab grad mit dem Sport angefangen wieder und das gibt mir grad so'n Energieschub, den ich schon lang nicht mehr hatte.";5;0;0;0;0;5;0;0;0;5;0;0;0;0;0;0;0;0;0;0;1.5;0.0
+82;"Es geht, halbwegs okay.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+83;"Also ehrlich, ich bin grad ziemlich neidisch, so blöd das klingt. Meine Kollegin hat die Beförderung bekommen, die ich mir auch erhofft hatte, und das nagt schon an mir grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+84;"Total entspannt und happy! Bester Tag seit langem!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+85;"Hm, gleichgültig irgendwie. Als würd mich grad nichts so richtig berühren, weder positiv noch negativ.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+86;"Also angespannt, aber auch hoffnungsvoll. Also, ähm, das Bewerbungsgespräch war heute, ich weiß noch nicht wie's ausgeht, aber ich hab schon ein gutes Gefühl dabei, trotz der Nervosität.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+87;"Alles im grünen Bereich, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+88;"Puh, also grad bin ich richtig verzweifelt, ehrlich. Also die Wohnungssuche zieht sich schon seit Monaten, nix passt, nix klappt, und ich weiß echt nicht mehr weiter, das zehrt schon sehr an mir grad, jeden Tag diese Enttäuschung wieder.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.8
+89;"Gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+90;"Also ich bin, hm, irgendwie gerührt grad. Hab heute 'ne total liebe Nachricht von 'ner alten Freundin bekommen, aus dem Nichts, das hat mich schon berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+91;"Genervt und müde. Doppelt blöd heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+92;"Es geht mir richtig gut muss ich sagen, so'n bisschen euphorisch sogar. Also mein Team hat heute das Projekt gewonnen, an dem wir monatelang gearbeitet haben, und die Freude, äh, ist grad einfach riesig, wir haben's noch gefeiert zusammen und alles.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+93;"Ruhig, unaufgeregt. Ganz normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+94;"Also bange, ich bin grad ziemlich bange. Mein Sohn ist heut zum ersten Mal alleine unterwegs und ich mach mir schon Sorgen, obwohl ich weiß, dass eigentlich alles gut ist.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.7
+95;"Klasse! Alles läuft grad wie am Schnürchen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+96;"Hmm, na ja, etwas resigniert vielleicht. Nach dem dritten Absagebrief diese Woche wird's halt schon schwer, motiviert zu bleiben.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+97;"Ganz okay, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+98;"Also leicht gereizt bin ich schon, muss ich zugeben, aber nichts Ernstes, nur so'n bisschen dünnhäutig heute wegen dem stressigen Tag.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.3
+99;"Ich fühl mich frei grad, richtig frei, wie schon lang nicht mehr! Hab endlich gekündigt bei dem Job der mich krank gemacht hat und, ähm, dieses Gefühl von Erleichterung und Aufbruch gleichzeitig ist einfach unbeschreiblich schön.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+100;"Solide, passt schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+101;"Ganz zufrieden eigentlich, ohne Höhen und Tiefen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+102;"Also ehrlich, ich bin grad ziemlich hin und her gerissen. Einerseits freu ich mich auf den neuen Job, der nächste Woche losgeht, aber andererseits, äh, hab ich auch schon 'n bisschen Bammel, ob ich das alles hinkrieg, so'n Mix aus Vorfreude und Panik gleichzeitig irgendwie.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;4;0.6;1.0
+103;"Müde, aber okay.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+104;"Puh, also wütend bin ich grad, richtig wütend. Mein Vermieter will die Miete schon wieder erhöhen und das ist grad einfach zu viel, ich weiß nicht wie ich das noch stemmen soll.";0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.8
+105;"Es geht mir eigentlich richtig gut, so'n ruhiges Glück grad, weißt du. Nix Besonderes passiert, aber ich sitz grad einfach mit 'nem Kaffee da und genieß den Moment, das reicht mir grad total.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+106;"So la la, halt normal.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+107;"Also bedrückt fühl ich mich schon ein bisschen. Die Nachrichten grad, das ganze Weltgeschehen, das macht mich schon nachdenklich und irgendwie schwer.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+108;"Top motiviert! Neues Projekt startet und ich brenn schon richtig dafür!";4;0;0;0;0;0;0;0;0;5;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+109;"Hmm, na ja, einsam vielleicht, so'n bisschen. Am Wochenende war ich viel allein und das merkt man dann schon.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+110;"Alles gut, danke der Nachfrage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+111;"Also aufgeregt und nervös gleichzeitig, ehrlich gesagt total. Meine erste eigene Wohnung, ich zieh nächste Woche ein, und, ähm, das ist grad einfach ein riesiger Schritt, macht mir schon 'n bisschen Angst aber auch mega Vorfreude gleichzeitig, verrückt eigentlich dieses Gefühl.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;4;0;0;3;3;0.6;1.0
+112;"Ruhig, entspannt, kein Stress heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+113;"Also enttäuscht bin ich schon, muss ich sagen. Hatte mir mehr erhofft von dem Gespräch heute, aber naja, ist halt so gelaufen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+114;"Fantastisch! Bester Tag seit Wochen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+115;"Es geht so, nix Weltbewegendes grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+116;"Puh, also grad total dankbar, aber auch bisschen wehmütig. Meine Tochter zieht nämlich in 'n paar Wochen aus, studiert dann in 'ner anderen Stadt, und ich bin so stolz auf sie, wirklich, aber gleichzeitig tut's schon weh, sie gehen zu lassen, so'n Mix eben.";0;3;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.3
+117;"Locker, alles im Griff heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+118;"Also verunsichert grad, ehrlich. Der Arzt hat was gefunden bei der Untersuchung, nix Schlimmes hoffentlich, aber ich muss noch auf weitere Ergebnisse warten und das zermürbt schon.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;4;0.0;1.0
+119;"Klasse Laune heute, einfach klasse!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+120;"Ganz passabel, keine Beschwerden.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+121;"Also ich bin grad, hm, ziemlich stolz auf mich selbst. Hab heut mein erstes Halbmarathon geschafft, war hart, aber ich hab's durchgezogen und das Gefühl grad ist einfach unbeschreiblich.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+122;"Erschöpft. Einfach nur erschöpft grad, nix weiter.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+123;"Also gemischt, würd ich sagen. Der Job stresst grad ziemlich, aber zuhause läuft's dafür richtig gut, also gleicht sich das irgendwie aus.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;3;0;0;0;0;0.0;0.6
+124;"Super! Alles bestens bei mir!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+125;"Puh, also innerlich echt aufgewühlt grad. Meine Eltern lassen sich scheiden nach dreißig Jahren Ehe, und ich, ähm, ich weiß gar nicht wie ich damit umgehen soll, obwohl ich erwachsen bin, trifft mich das schon extrem hart.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.9
+126;"Ganz okay, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+127;"Also gelangweilt, ehrlich gesagt. Nix los grad, jeden Tag das Gleiche.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+128;"Zufrieden und dankbar heute, kleine schöne Momente den ganzen Tag über.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+129;"Hmm, na ja, ambivalent vielleicht am besten beschrieben. Freu mich auf den Urlaub, aber gleichzeitig auch Bammel vorm Fliegen, kennst du bestimmt.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;3;0.6;0.9
+130;"Alles im Lot bei mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+131;"Also frustriert bin ich schon ein bisschen. Die Waschmaschine ist kaputt gegangen und jetzt muss ich wieder ewig auf den Techniker warten, nervig einfach.";0;0;0;0;3;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.6
+132;"Richtig gut drauf! Sonne scheint, Wochenende steht an, was will man mehr!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+133;"Geht so weit, nix zu beklagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+134;"Also besorgt bin ich grad, ziemlich besorgt sogar. Meine Katze frisst seit Tagen nicht richtig und ich, äh, ich mach mir schon Sorgen, morgen geht's zum Tierarzt, hoffentlich ist nix Ernstes.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+135;"Entspannt, hab endlich mal wieder Zeit zum Durchatmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+136;"Puh, also überglücklich grad, wirklich, meine beste Freundin hat mir heut gesagt, dass sie schwanger ist, und ich freu mich so für sie, das ist einfach überwältigend schön grad, ich musste fast weinen vor Freude.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+137;"Normal, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+138;"Also niedergeschlagen ein bisschen, kein bestimmter Grund, einfach so'n grauer Tag im Kopf heut.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+139;"Top motiviert und energiegeladen! Neuer Tag, neue Chancen!";5;0;0;5;0;0;0;0;0;5;0;0;5;0;0;0;0;0;0;0;2.0;0.0
+140;"Es geht mir okay, denk ich, nix Besonderes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+141;"Also verletzt fühl ich mich grad, ehrlich gesagt. Ein guter Freund hat was Fieses über mich gesagt hinter meinem Rücken und das tut schon weh, auch wenn ich's grad noch nicht verarbeitet hab.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+142;"Alles bestens, kann nicht klagen!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+143;"Hmm, so'n bisschen unruhig innerlich, kann's grad selbst nicht so richtig greifen warum.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+144;"Also ich bin, äh, grad total im Reinen mit mir, so 'n stilles Glücksgefühl irgendwie, ohne großen Anlass, einfach nur weil grad alles passt gerade in meinem Leben.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+145;"Müde, aber zufrieden mit dem Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+146;"Also panisch fast, ehrlich. Hab meinen Pass verloren und flieg morgen früh in den Urlaub, ich weiß grad echt nicht was ich tun soll.";0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;5;0;0;5;5;0.0;2.0
+147;"Ganz gut, danke der Nachfrage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+148;"Puh, also grad ziemlich überfordert von allem. Zu viele Baustellen gleichzeitig, Job, Familie, Gesundheit, ich weiß grad nicht wo ich anfangen soll, alles türmt sich irgendwie auf.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;4;3;0.0;1.3
+149;"Fröhlich! Einfach nur fröhlich grad, ohne großen Grund!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+150;"So mittelmäßig, weder gut noch schlecht heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+151;"Ganz gut, kann nicht klagen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+152;"Also aufgekratzt bin ich grad, richtig aufgekratzt. Ähm, mein bester Kumpel kommt heut Abend nach zwei Jahren im Ausland endlich wieder zurück und ich zähl schon die Stunden, kann's kaum erwarten.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+153;"Es geht, nix Besonderes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+154;"Also bin ich grad ziemlich wehmütig, hab heut mein altes Kinderzimmer ausgeräumt, meine Eltern verkaufen das Haus, und da kommen schon einige Erinnerungen hoch, ist schwerer als gedacht.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+155;"Alles top, richtig gute Laune!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+156;"Hmm, na ja, leicht angespannt vielleicht, hab gleich noch ein wichtiges Telefonat, aber ansonsten passt's.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+157;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+158;"Also verzweifelt bin ich grad schon ein bisschen, ehrlich. Die Kündigungsfrist läuft ab und ich hab noch keinen neuen Job in Sicht, das macht mir schon ordentlich Sorgen, jede Nacht liegt ich wach deswegen.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.9
+159;"Richtig glücklich! Hab heut meinen Führerschein bestanden!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+160;"Es geht mir okay soweit, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+161;"Also ich fühl mich grad, hm, seltsam leer irgendwie, als würd nix mich so richtig erreichen grad, weder gut noch schlecht, einfach nur so'n dumpfes Gefühl.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+162;"Super zufrieden! Endlich das Projekt abgeschlossen nach Monaten!";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+163;"Naja, geht so, hab schlecht geschlafen letzte Nacht.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+164;"Also aufgebracht bin ich grad total, ehrlich gesagt. Mein Nachbar hat schon wieder mein Auto zugeparkt und ich komm grad nicht mal aus der Einfahrt raus, sowas von ärgerlich!";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0.0;1.1
+165;"Ruhig und gelassen, guter Start in den Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+166;"Puh, also grad total gerührt, wirklich, meine kleine Nichte hat mir heut ein selbstgemaltes Bild geschenkt und, ähm, sowas rührt mich einfach total, kleine Momente wie diese bedeuten mir grad extrem viel.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+167;"Passt schon, alles im grünen Bereich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+168;"Also müde und ein bisschen gereizt, ehrlich, Nacht war kurz und der Tag zieht sich.";0;0;0;0;3;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.6
+169;"Fantastisch drauf heute! Konnte einfach nichts meine Laune trüben!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+170;"Ganz okay, wie jeden Tag eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+171;"Also hoffnungsvoll bin ich grad, trotz allem. Also, die Diagnose war nicht so gut letzte Woche, aber die Ärzte sagen die Chancen stehen gut, und ich, äh, ich klammer mich grad an diese Hoffnung, versuch positiv zu bleiben, so schwer das grad auch ist.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.6
+172;"Locker heute, kein Stress.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+173;"Also neidisch, klingt blöd, aber ehrlich, meine Freundin hat grad ihr Traumhaus gekauft und ich sitz noch in meiner kleinen Wohnung, das nagt schon ein bisschen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+174;"Alles super, richtig zufrieden mit dem Tag!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+175;"Es geht, normal halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+176;"Also grad ziemlich aufgeregt, positiv aufgeregt. Krieg gleich Besuch von 'ner alten Freundin, die ich seit der Schulzeit nicht mehr gesehen hab, kann's kaum erwarten sie wiederzusehen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+177;"Bedrückt ein bisschen, kein bestimmter Grund.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+178;"Klasse! Einfach nur klasse heute, alles läuft!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+179;"Also unsicher fühl ich mich grad, ob die Entscheidung mit dem Jobwechsel richtig war, zweifel schon manchmal dran, aber gut, kann's nicht mehr ändern jetzt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+180;"Ganz gut, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+181;"Puh, also grad total erschöpft und irgendwie auch traurig gleichzeitig. Ähm, mein Hund ist letzte Woche gestorben, nach vierzehn Jahren, und ich, ich vermiss ihn einfach so sehr, jeden Morgen fehlt er beim Aufwachen, das ist grad schon sehr hart.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+182;"Motiviert und wach heute, guter Start!";4;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0.9;0.0
+183;"Also so mittel, nix Aufregendes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+184;"Ich fühl mich grad sehr geborgen, weißt du, war grad mit der Familie zusammen zum Essen und sowas gibt mir einfach immer so'n warmes Gefühl.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+185;"Genervt, ehrlich gesagt, alles läuft grad schief heut.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+186;"Super entspannt! Endlich Urlaub!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+187;"Also ratlos irgendwie, weiß grad selbst nicht so recht was mit mir los ist, einfach so'n diffuses Gefühl.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+188;"Ganz zufrieden, alles läuft wie's soll.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+189;"Also ich bin grad richtig euphorisch, muss ich sagen! Hab grad erfahren dass ich Tante werde, meine Schwester ist schwanger, und ich freu mich so wahnsinnig, kann's noch gar nicht richtig fassen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+190;"Es geht mir gut soweit, nix zu klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+191;"Also traurig, ganz still traurig irgendwie, keinen konkreten Grund, einfach so'n Gefühl heute.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+192;"Alles bestens, richtig gute Laune!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+193;"Hmm, na ja, etwas überfordert, zu viele Termine diese Woche gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.4
+194;"Ganz normal, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+195;"Also grad total nervös, hab gleich mein erstes Date seit der Trennung und, äh, die Hände zittern mir schon leicht dabei, aber irgendwie auch 'n bisschen aufgeregt-gut, wenn das Sinn macht.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;4;0;0;3;3;0.6;1.0
+196;"Passt, kein Grund zur Klage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+197;"Also dankbar und ruhig grad, hatte heut so'n schönen ruhigen Nachmittag im Park, einfach nur die Sonne genossen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+198;"Angespannt, viel um die Ohren grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+199;"Fantastisch! Bin heut befördert worden, kann's kaum fassen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+200;"Ganz okay, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+201;"Ganz gut, nix Neues zu berichten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+202;"Also, ähm, grad ziemlich zwiegespalten. Hab heut die Zusage für 'n Auslandssemester bekommen, freu mich total, aber gleichzeitig macht mir der Gedanke, so weit weg von zuhause zu sein, auch schon 'n bisschen Angst, komische Mischung grad.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;4;0.6;1.0
+203;"Es geht, könnte schlechter sein.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+204;"Also wütend und hilflos gleichzeitig, ehrlich. Mein Fahrrad wurde geklaut vor der Haustür und ich, ich fühl mich grad einfach nur ohnmächtig deswegen.";0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.8
+205;"Super happy! Hab grad die beste Nachricht meines Lebens bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+206;"Ganz okay, nix Besonderes heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+207;"Puh, also grad wirklich sehr angespannt. Also die Scheidung zieht sich jetzt schon seit über 'nem Jahr und jedes Gerichtstermin macht's nur schlimmer, ich bin grad einfach nur müde von dem ganzen Kampf, ehrlich, ich will nur dass es endlich vorbei ist.";0;4;0;0;3;0;0;0;0;0;0;3;0;0;0;3;0;0;0;0;0.0;1.3
+208;"Locker und entspannt, schöner freier Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+209;"Also leicht melancholisch, so'n Herbstgefühl eben, nix Ernstes.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+210;"Klasse Laune, alles läuft grad wie geschmiert!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+211;"Also besorgt bin ich schon ziemlich. Mein Vater ist gestern gestürzt und liegt jetzt im Krankenhaus, wir wissen noch nicht genau was los ist, und das macht mir schon große Sorgen grad, ich kann an nix anderes denken.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0.0;0.9
+212;"Ganz zufrieden, ruhiger Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+213;"Also gereizt, ehrlich, zu viel Lärm grad um mich rum, brauch mal Ruhe.";0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.4
+214;"Freudig erregt! Meine beste Freundin heiratet heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+215;"Es geht mir okay, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+216;"Also erleichtert total, endlich das Ergebnis vom Test bekommen und es ist gut ausgegangen, das war schon 'ne riesige Last die grad von mir abgefallen ist.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+217;"Normal, nix zu berichten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+218;"Hmm, na ja, ich fühl mich grad schuldig irgendwie, hab mit meinem Bruder gestritten und weiß nicht so recht wie ich das wieder gut mache.";0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.7
+219;"Super motiviert! Neues Fitnessprogramm gestartet und es fühlt sich mega gut an!";4;0;0;0;0;0;0;0;0;4;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+220;"Ganz gut soweit, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+221;"Also ich bin grad, äh, ziemlich sentimental, hab grad meine alte Kamera gefunden mit Fotos von der Studienzeit drauf, das holt schon einiges an Erinnerungen hoch, gemischt aus Freude und ein bisschen Wehmut, weil die Zeit einfach so schnell vergangen ist.";0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.3;0.3
+222;"Frustriert, nix klappt heute richtig.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+223;"Ganz okay, keine großen Ereignisse.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+224;"Also grad total aufgeregt und happy zugleich! Hab grad rausgefunden, dass ich schwanger bin, nach Jahren des Wartens, und ich kann's einfach noch nicht fassen, das ist grad das schönste Gefühl überhaupt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+225;"Es geht so, hab schon bessere Tage erlebt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+226;"Also unruhig innerlich, kann's grad nicht genau greifen warum, einfach so'n Gefühl von Unbehagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+227;"Alles im Lot, danke der Nachfrage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+228;"Puh, also ich bin grad ehrlich gesagt ziemlich am Verzweifeln. Die Firma macht dicht nächsten Monat und ich, ich weiß grad überhaupt nicht wie's weitergehen soll, mit über fünfzig nochmal 'nen neuen Job zu finden, das macht mir schon extrem Angst grad.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0.0;1.0
+229;"Fröhlich und beschwingt heute, einfach so.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+230;"Ganz normal, keine Aufreger.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+231;"Also stolz und gerührt gleichzeitig, mein Sohn hat heut seinen ersten Schultag gehabt und, ähm, das war schon ein bewegender Moment für mich, ihn dabei zu sehen.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+232;"Genervt, viel Ärger heut gehabt.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+233;"Entspannt und im Reinen mit mir grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+234;"Also ich bin schon ziemlich enttäuscht, ehrlich gesagt. Hatte gehofft die Beförderung zu bekommen und jetzt ist es wieder nix geworden, das trifft mich schon.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+235;"Super! Bester Tag der ganzen Woche!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+236;"Ganz gut, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+237;"Also ich fühl mich grad, hm, total ausgebrannt, keine Kraft mehr für irgendwas, jeden Tag das Gleiche, ich brauch dringend mal Urlaub, ehrlich.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+238;"Freudig! Kleine Schwester heut geboren!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+239;"Es geht mir soweit gut, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+240;"Also nachdenklich grad, hab heut viel über mein Leben nachgedacht, wo's hingeht, keine schlechten Gedanken, einfach nur so'n Reflexionsmoment.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+241;"Ganz zufrieden, ruhiger normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+242;"Also grad ziemlich verletzlich, hab heut was sehr Persönliches geteilt mit jemandem und fühl mich jetzt so'n bisschen exponiert, aber auch irgendwie befreit gleichzeitig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+243;"Top motiviert heute, freu mich auf die neue Woche!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+244;"Naja, geht so, normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+245;"Also hab ich grad, äh, so'n leises Glücksgefühl, nix Großes, einfach nur die kleinen Dinge grad, guter Kaffee, schönes Wetter, mehr brauch ich grad nicht.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+246;"Angespannt, viel Druck grad im Job.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;3;0;0;0;0;0.0;0.6
+247;"Alles bestens, richtig zufrieden mit dem Leben grad!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+248;"Also grad ziemlich besorgt um meine beste Freundin, sie hat mir erzählt dass es ihr grad nicht gut geht, und ich mach mir schon Sorgen, weiß aber nicht so recht wie ich helfen kann.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+249;"Ruhig und gelassen, schöner Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+250;"Ganz okay, nix zu meckern heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+251;"Es geht, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+252;"Also ich bin grad ehrlich ziemlich aus dem Häuschen, positiv! Hab grad erfahren dass mein Buch veröffentlicht wird, nach Jahren des Schreibens, und ich, äh, ich kann's grad noch gar nicht richtig realisieren, so'n riesiges Glücksgefühl.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+253;"Müde, aber okay soweit.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+254;"Also grad ziemlich niedergeschlagen, ehrlich gesagt, mein Antrag wurde schon wieder abgelehnt, dritte Mal jetzt, langsam verlier ich echt die Motivation weiterzumachen.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+255;"Super gut drauf, herrlicher Tag heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+256;"Ganz gut, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+257;"Also verunsichert grad, bisschen, weil mein Partner sich in letzter Zeit komisch verhält und ich nicht genau weiß woran das liegt, macht mich schon nachdenklich.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+258;"Fröhlich! Sonne scheint und ich hab frei heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+259;"Es geht mir okay, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+260;"Also bin ich grad total gerührt, meine Eltern haben heut ihre goldene Hochzeit gefeiert und die ganze Familie war da, das war schon ein sehr emotionaler und schöner Moment für mich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+261;"Genervt von allem grad, ehrlich.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+262;"Ganz zufrieden, ruhiger Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+263;"Also aufgeregt bin ich schon ziemlich, hab morgen meine Führerscheinprüfung und, äh, ich hab schon 'n bisschen Bammel davor, aber versuch positiv zu bleiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;3;0.0;0.7
+264;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+265;"Hmm, na ja, bisschen down, kein bestimmter Grund.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+266;"Also ich fühl mich grad wirklich sehr befreit, hab endlich den Mut gefunden meinem Chef zu kündigen, nach Jahren des Zögerns, und das Gefühl grad ist einfach unbeschreiblich gut.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+267;"Ganz okay, nix Aufregendes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+268;"Also traurig und wütend gleichzeitig, mein bester Freund hat mich grad ziemlich enttäuscht und ich weiß noch nicht wie ich damit umgehen soll.";0;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;1.1
+269;"Top drauf heute, richtig gute Laune!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+270;"Es geht, wie jeden Tag eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+271;"Also ich bin grad ehrlich total überfordert mit allem, die Kinder, der Haushalt, der Job, alles gleichzeitig, und ich, äh, ich krieg grad kaum noch Luft zum Atmen bei dem ganzen Trubel, ehrlich, ich bräuchte mal 'ne Pause.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;4;0;0.0;1.0
+272;"Ruhig und entspannt, schöner Sonntag heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+273;"Also leicht gestresst wegen dem Umzug, aber sonst passt's.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.3
+274;"Überglücklich! Hab grad meinen Traumjob bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+275;"Ganz normal, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+276;"Also grad ein bisschen wehmütig, mein bester Freund zieht ins Ausland und wir sehen uns dann viel seltener, das macht mich schon traurig, auch wenn ich mich für ihn freu.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+277;"Alles gut soweit, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+278;"Hmm, na ja, erschöpft, lange Woche gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+279;"Also stolz bin ich grad sehr, meine Tochter hat heut ihr Abitur bestanden mit sehr gutem Schnitt, und ich, ich könnte grad einfach platzen vor Stolz, ehrlich.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+280;"Ganz okay, nix Besonderes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+281;"Also grad total wütend, mein Chef hat mir heut wieder unfair Kritik geäußert vor dem ganzen Team, das kocht grad noch in mir.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+282;"Fantastisch! Einfach nur fantastisch heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+283;"Es geht mir gut, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+284;"Also ängstlich fühl ich mich grad ein bisschen, hab morgen 'ne wichtige Operation und, äh, die Nervosität steigt schon mit jeder Stunde die näher rückt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;4;0.0;0.8
+285;"Locker und entspannt, guter Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+286;"Ganz zufrieden, ruhiger normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+287;"Also grad ziemlich erleichtert, endlich die Prüfung bestanden nach dem dritten Versuch, und ich, ich kann's noch gar nicht fassen ehrlich.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+288;"Genervt, technische Probleme den ganzen Tag.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+289;"Alles bestens bei mir, richtig zufrieden!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+290;"Also ich bin, hm, grad irgendwie unentschlossen, was die Zukunft angeht, viele Optionen grad und ich weiß nicht so recht welchen Weg ich einschlagen soll.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+291;"Ganz gut, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+292;"Also grad total aufgewühlt, mein Ex hat sich heut nach Monaten gemeldet und, äh, das hat schon einiges an alten Gefühlen wieder hochgeholt, weiß grad gar nicht wie ich damit umgehen soll.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.7
+293;"Motiviert und frisch heute, guter Start in die Woche!";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+294;"Es geht, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+295;"Also dankbar fühl ich mich grad sehr, meine Nachbarn haben mir heut spontan geholfen als mein Auto liegengeblieben ist, sowas rührt mich einfach, dass es noch so hilfsbereite Menschen gibt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+296;"Ganz okay, kein Grund zur Klage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+297;"Also grad ehrlich ziemlich einsam, seit der Trennung vor 'nem Monat ist es schon ruhig geworden um mich, das Alleinsein fällt mir grad schwerer als gedacht.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+298;"Super entspannt, freier Tag heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+299;"Ganz zufrieden, alles läuft wie's soll heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+300;"Also grad total euphorisch, hab grad rausgefunden, dass ich für den Marathon zugelassen wurde, nach monatelangem Training, das ist grad einfach ein riesiges Glücksgefühl!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+301;"Es geht, nix Neues.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+302;"Also ich bin grad ehrlich ziemlich zwiegespalten, mein Vertrag läuft aus und ich weiß nicht ob ich verlängern soll oder mir was Neues suchen soll, das beschäftigt mich schon ziemlich grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+303;"Ganz gut soweit, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+304;"Also grad total genervt von der Bürokratie, schon die dritte Behörde heute und keiner ist zuständig, echt zum Verzweifeln manchmal.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0.0;1.1
+305;"Top motiviert! Neuer Kurs startet und ich freu mich schon riesig drauf!";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+306;"Ganz normal, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+307;"Also grad ziemlich verletzt, mein Bruder hat meinen Geburtstag vergessen, zum zweiten Mal in Folge, das tut schon weh, auch wenn's vielleicht albern klingt.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+308;"Alles super, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+309;"Hmm, na ja, angespannt wegen dem Vorstellungsgespräch morgen, aber sonst okay.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+310;"Es geht mir gut, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+311;"Also grad total gerührt, mein Opa hat mir heut von früher erzählt, von seiner Jugend, und diese Geschichten berühren mich jedes Mal aufs Neue, so'n schöner Nachmittag war das.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+312;"Genervt, alles läuft schief heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+313;"Ganz zufrieden, ruhiger Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+314;"Also grad ehrlich richtig ängstlich, mein Flug geht in zwei Stunden und ich hab noch nie eine so lange Reise gemacht allein, die Nervosität steigt grad mit jeder Minute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;4;0.0;0.8
+315;"Fantastisch drauf! Bin grad einfach nur happy heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+316;"Ganz okay, wie jeden Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+317;"Also grad ziemlich frustriert, mein Projekt wurde grad abgelehnt nach monatelanger Arbeit dran, das ist schon 'n harter Schlag grad.";0;4;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.8
+318;"Alles bestens, danke der Nachfrage!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+319;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+320;"Also ich bin grad, hm, richtig nachdenklich, mein bester Freund hat mir heut erzählt dass er krank ist, ernsthaft krank, und das lässt mich grad einfach alles hinterfragen, das Leben, was wichtig ist, sowas eben.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+321;"Ganz zufrieden, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+322;"Locker heute, kein großer Stress.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+323;"Also grad total aufgeregt, morgen ist mein erster Arbeitstag im neuen Job und ich, äh, ich kann grad kaum schlafen vor lauter Vorfreude und ein bisschen Nervosität dazwischen.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;3;0;0;0;0;0.8;0.3
+324;"Müde und erschöpft, langer Tag gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+325;"Ganz gut, alles im Lot.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+326;"Also grad ehrlich ziemlich wütend, mein Nachbar hat mal wieder die ganze Nacht laut Musik gehört und ich konnte kaum schlafen, das nervt schon extrem.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+327;"Fröhlich und beschwingt heute, einfach so, ohne Grund!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+328;"Es geht mir okay, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+329;"Also grad total überwältigt, im positiven Sinn, meine ganze Familie hat mir heut zum Studienabschluss gratuliert, so viel Liebe grad um mich rum, das rührt mich schon sehr.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+330;"Ganz normal, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+331;"Also grad ein bisschen besorgt um meine Gesundheit, hab seit Tagen Kopfschmerzen und weiß nicht genau woran's liegt.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.6
+332;"Super entspannt, freier Nachmittag heut!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+333;"Ganz okay, keine großen Ereignisse.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+334;"Also grad ehrlich richtig verzweifelt, meine Beziehung steht grad kurz vorm Aus, und ich, ich weiß einfach nicht mehr weiter, wir reden aneinander vorbei nur noch, das macht mich fertig grad.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;4;0.0;1.2
+335;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+336;"Es geht, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+337;"Also grad total dankbar, mein Team hat mich heut überraschend unterstützt bei was Persönlichem, das zeigt mir wie gut ich es eigentlich hab, mit solchen Kollegen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+338;"Genervt und müde gleichzeitig, doppelt blöd heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+339;"Ganz gut soweit, danke der Nachfrage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+340;"Also grad ziemlich stolz, hab heut meinen ersten eigenen Kunden akquiriert für mein kleines Business, und das fühlt sich grad einfach großartig an, nach so viel Arbeit.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+341;"Ruhig und ausgeglichen, schöner Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+342;"Also grad ein bisschen unsicher, hab gleich mein erstes Bewerbungsgespräch seit Jahren, und die Nervosität ist grad schon deutlich zu spüren.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+343;"Klasse Laune, alles läuft grad wie am Schnürchen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+344;"Es geht mir gut, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+345;"Also grad total am Boden, meine Großmutter ist heut Nacht gestorben, ich weiß grad noch gar nicht wie ich das verarbeiten soll, alles fühlt sich grad so unwirklich an.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.9
+346;"Ganz zufrieden, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+347;"Motiviert und wach heute, guter Start in den Tag!";4;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0.9;0.0
+348;"Also grad ehrlich ziemlich neidisch, meine Kollegin hat schon wieder das bessere Projekt bekommen, das nagt schon an mir, auch wenn ich's mir nicht anmerken lass.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+349;"Alles bestens bei mir, richtig zufrieden!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+350;"Ganz okay, nix Besonderes heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+351;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+352;"Also grad total erleichtert, mein Sohn hat heut endlich seinen Führerschein bestanden, nach dem zweiten Versuch, und ich, ich bin einfach nur froh dass das jetzt vorbei ist, die Warterei.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+353;"Ganz gut, kein Grund zur Klage.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+354;"Also grad ziemlich frustriert, mein Computer ist abgestürzt und ich hab die ganze Arbeit von heut verloren, echt zum Heulen manchmal.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+355;"Super happy! Grad die Zusage für die Wohnung bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+356;"Ganz normal, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+357;"Also grad ein bisschen melancholisch, hab heut alte Briefe gefunden von meiner verstorbenen Mutter, das holt schon einiges hoch, aber auf 'ne schöne Weise irgendwie.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+358;"Fröhlich, guter Start in den Tag gehabt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+359;"Es geht mir okay, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+360;"Also grad total aufgeregt, meine erste eigene Ausstellung eröffnet heut Abend, nach Jahren der Arbeit, und ich, äh, ich kann grad kaum still sitzen vor lauter Nervosität und Vorfreude.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;4;0;0;0;0;0.8;0.4
+361;"Ganz okay, wie jeden Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+362;"Also grad ehrlich ziemlich enttäuscht von mir selbst, hab mein Versprechen nicht gehalten und das nagt schon an mir.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+363;"Alles super, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+364;"Hmm, na ja, bisschen angespannt wegen der Steuerprüfung, aber sonst passt's.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+365;"Es geht, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+366;"Also grad total gerührt, meine Freunde haben mir heut 'ne Überraschungsparty organisiert zum Geburtstag, das hab ich echt nicht erwartet, bin noch ganz gerührt davon.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+367;"Genervt, technische Probleme den ganzen Vormittag.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+368;"Ganz zufrieden, ruhiger Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+369;"Also grad ehrlich richtig unsicher, mein Arzttermin steht bevor wegen der Untersuchung, und die Angst vor dem Ergebnis wird grad immer größer.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;5;0.0;0.9
+370;"Fantastisch drauf, bester Tag der Woche!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+371;"Ganz okay, nix Aufregendes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+372;"Also grad ziemlich stolz auf meine Tochter, sie hat heut ihren ersten Marathon gelaufen, und ich, ich konnte grad kaum die Freudentränen zurückhalten als sie ins Ziel kam.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+373;"Ruhig und entspannt, schöner freier Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+374;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+375;"Also grad total wütend auf mich selbst, hab schon wieder was vergessen, wichtiges sogar, das ärgert mich grad ziemlich.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+376;"Alles bestens, danke der Nachfrage!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+377;"Ganz gut soweit, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+378;"Also grad ein bisschen besorgt, mein Kind hat grad Schwierigkeiten in der Schule und ich weiß nicht so genau wie ich am besten helfen kann.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+379;"Super motiviert und energiegeladen heute!";5;0;0;0;0;0;0;0;0;5;0;0;5;0;0;0;0;0;0;0;1.5;0.0
+380;"Es geht, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+381;"Also grad total euphorisch, mein Startup hat grad die erste Finanzierungsrunde abgeschlossen, nach Monaten harter Arbeit, das ist grad einfach unbeschreiblich, dieses Gefühl.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+382;"Müde, aber zufrieden mit dem Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+383;"Ganz normal, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+384;"Also grad ehrlich ziemlich traurig, mein Haustier ist grad beim Tierarzt und die Diagnose ist nicht gut, ich mach mir grad einfach nur Sorgen.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.8
+385;"Klasse Laune, alles läuft grad super!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+386;"Es geht mir okay, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+387;"Also grad total dankbar, hab heut so viel Unterstützung erfahren von Fremden, als mein Auto liegengeblieben ist, sowas gibt einem echt Hoffnung in die Menschheit zurück.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+388;"Genervt von allem grad, stressiger Tag heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+389;"Ganz zufrieden, ruhiger normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+390;"Also grad ehrlich richtig verletzlich, hab heut was sehr Persönliches meiner Therapeutin erzählt, und das macht was mit einem, öffnet sich einem, ist aber auch anstrengend zugleich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+391;"Fröhlich und beschwingt, guter Tag bisher!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+392;"Ganz okay, wie jeden Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+393;"Also grad total erschöpft, drei Nachtschichten in Folge, ich merk das grad schon ziemlich körperlich, brauch dringend mal Erholung.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+394;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+395;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+396;"Also grad ziemlich stolz, hab heut mein erstes eigenes Möbelstück gebaut, dauerte Wochen, aber das Ergebnis macht mich grad richtig glücklich.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+397;"Ruhig und ausgeglichen, schöner Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+398;"Also grad ein bisschen nervös, hab morgen mein Vorstellungsgespräch für den Traumjob, und die Aufregung steigt schon mit jeder Stunde.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+399;"Top drauf, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+400;"Ganz gut, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+401;"Ach, es geht, nix Weltbewegendes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+402;"Weißt du, ich bin grad irgendwie zerrissen. Also mein Vertrag läuft in zwei Monaten aus und ich soll mich entscheiden, bleiben oder was Neues suchen, und ich, äh, ich krieg mich grad einfach nicht entscheiden, dreht sich alles im Kopf im Kreis.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.4
+403;"Frisch und wach heute, guter Start.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0.9;0.0
+404;"Also ich muss ehrlich sagen, ich bin grad ziemlich sauer. Mein Sohn hat wieder Ärger in der Schule gemacht und ich weiß grad echt nicht mehr, wie ich mit ihm reden soll, ohne dass es eskaliert.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0.0;1.1
+405;"Super, alles im grünen Bereich!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+406;"Naja, schwer zu sagen. So'n bisschen taub innerlich grad, nicht traurig, nicht glücklich, einfach nur da.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+407;"Also grad ziemlich beschwingt, hab heut morgen beim Joggen so'n schönen Sonnenaufgang gesehen und das hat mir irgendwie den ganzen Tag versüßt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+408;"Angespannt, viele Termine heute gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+409;"Ganz zufrieden eigentlich, ruhiger Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+410;"Also, hm, ich fühl mich grad ehrlich ein bisschen überflüssig, im Job wurde grad umstrukturiert und meine Rolle ist irgendwie unklar geworden, das macht mich schon unsicher.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+411;"Richtig fröhlich heut, kein bestimmter Grund!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+412;"Es geht, wie jeden Tag eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+413;"Also bin ich grad total aus dem Häuschen, meine beste Freundin hat sich grad verlobt und ich durfte als Erste davon erfahren, das ist grad einfach wunderschön.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+414;"Genervt, Stau den ganzen Weg zur Arbeit heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+415;"Ganz okay soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+416;"Also ich bin grad, äh, ehrlich ziemlich beschämt. Hab bei der Präsentation heut total versagt vor allen Kollegen, das brennt schon noch ordentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+417;"Alles bestens, danke der Nachfrage!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+418;"Hmm, na ja, leicht wehmütig, letzter Tag im alten Büro heute vor dem Umzug.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+419;"Motiviert, freu mich schon auf die neue Woche.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.4;0.0
+420;"Es geht mir gut, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+421;"Also grad total überfordert von der Elternschaft, das Baby schläft nicht durch seit Wochen und ich, ich funktionier grad einfach nur noch, keine Energie mehr für irgendwas anderes.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.7
+422;"Ganz gut, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+423;"Also aufgeregt bin ich schon, hab heut mein erstes eigenes Konzert und die Nervosität vorm Auftritt steigt grad stündlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+424;"Locker und entspannt, freier Tag heut!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+425;"Ganz normal, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+426;"Also grad ehrlich ziemlich verletzt, meine Schwester hat mich vergessen bei der Einladung zur Familienfeier, absichtlich vielleicht sogar, das tut schon weh.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+427;"Super gute Laune, herrlicher Tag heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+428;"Es geht, nix Besonderes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+429;"Also grad total glücklich, mein Antrag auf die Stelle wurde grad angenommen, endlich nach so langer Wartezeit, ich könnte grad Bäume ausreißen vor Freude.";5;0;0;5;0;5;0;0;0;0;0;0;5;0;0;0;0;0;0;0;2.0;0.0
+430;"Ganz zufrieden, ruhiger Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+431;"Also grad ein bisschen genervt vom Wetter, schon seit Tagen nur Regen, drückt schon irgendwie aufs Gemüt.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.3
+432;"Klasse! Alles läuft grad wie geschmiert heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+433;"Ganz okay, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+434;"Also grad ehrlich richtig ängstlich, meine Mutter wird operiert morgen und ich, äh, ich mach mir grad einfach nur Sorgen, kann kaum an was anderes denken grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;5;0.0;0.9
+435;"Fantastisch drauf, bester Tag seit langem!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+436;"Es geht mir okay soweit.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+437;"Also grad total dankbar für meine Freunde, die grad alle für mich da waren in schwerer Zeit, das bedeutet mir grad extrem viel.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+438;"Genervt, alles läuft grad schief heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+439;"Ganz gut, alles im Lot.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+440;"Also bin ich grad ehrlich ziemlich stolz auf mich, hab heut meine Ängste überwunden und endlich diesen Sprung ins kalte Wasser gewagt, mit der Selbstständigkeit, fühlt sich grad gut an.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+441;"Ruhig, entspannter Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+442;"Also grad ein bisschen unsicher wegen der Zukunft, alles ändert sich grad so schnell um mich rum.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+443;"Top Laune heute, einfach happy!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+444;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+445;"Also grad total erschöpft von der langen Reise, aber auch glücklich, endlich wieder zuhause zu sein.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+446;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+447;"Ganz zufrieden, alles läuft wie's soll.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+448;"Also grad ehrlich ziemlich traurig, mein bester Freund zieht weit weg nächsten Monat, und das macht mich grad schon sehr wehmütig.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+449;"Frisch und motiviert heute, guter Start!";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+450;"Ganz okay, nix zu meckern heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+451;"Es geht, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+452;"Also ich bin grad, hm, ehrlich ziemlich hin- und hergerissen. Hab heut ein Angebot bekommen für 'nen Job in 'ner anderen Stadt, mehr Geld, bessere Position, aber ich müsste alles hier zurücklassen, Freunde, Familie, das macht die Entscheidung grad echt schwer.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+453;"Ganz gut soweit, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+454;"Also grad ziemlich sauer, die Bahn hatte schon wieder Verspätung und ich hab meinen wichtigen Termin verpasst deswegen, echt ärgerlich.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+455;"Super happy heute, einfach ein guter Tag!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+456;"Ganz normal, nix Aufregendes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+457;"Also grad ein bisschen wehmütig, letzter Arbeitstag heut bei der alten Firma nach zehn Jahren, komisches Gefühl irgendwie, aber auch Vorfreude aufs Neue.";0;3;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.3;0.3
+458;"Fröhlich, kein bestimmter Grund, einfach so drauf heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+459;"Es geht mir okay, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+460;"Also grad total aufgewühlt, mein Ex hat sich grad wieder gemeldet nach Jahren, weiß grad gar nicht wie ich damit umgehen soll, hab gedacht das wär längst abgeschlossen.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.7
+461;"Ganz okay, wie jeden Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+462;"Also grad ehrlich richtig verzweifelt, meine Wohnung wird gekündigt und ich find grad einfach nix Neues, die Suche zermürbt mich echt langsam.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.8
+463;"Alles super, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+464;"Hmm, na ja, bisschen angespannt vor dem Elterngespräch morgen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+465;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+466;"Also grad total gerührt, mein kleiner Neffe hat heut zum ersten Mal 'Onkel' zu mir gesagt, und, äh, das hat mich schon wirklich berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+467;"Genervt, technisches Chaos den ganzen Tag.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+468;"Ganz zufrieden, ruhiger Tag bisher.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+469;"Also grad ehrlich ziemlich unsicher, ob die Trennung die richtige Entscheidung war, zweifel schon manchmal dran, aber kann's nicht mehr ändern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+470;"Fantastisch drauf, bester Tag seit langem!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+471;"Ganz okay, nix Besonderes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+472;"Also grad ziemlich stolz, mein Team hat heut das Projekt erfolgreich abgeschlossen nach monatelanger Arbeit, ich bin grad einfach nur froh und stolz auf alle.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+473;"Ruhig und entspannt, schöner Sonntag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+474;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+475;"Also grad total wütend auf die Situation, keiner will grad Verantwortung übernehmen im Team und alles bleibt an mir hängen, das nervt mich grad extrem.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+476;"Alles bestens, danke der Nachfrage!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+477;"Ganz gut soweit, normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+478;"Also grad ein bisschen besorgt um meine Freundin, sie klang grad am Telefon nicht so gut und ich mach mir schon Sorgen um sie.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+479;"Super motiviert heute, freu mich auf neue Herausforderungen!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+480;"Es geht, wie immer eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+481;"Also grad total euphorisch, hab grad das Stipendium bekommen für mein Auslandsstudium, monatelang gebangt und jetzt endlich die Zusage, unbeschreibliches Gefühl grad.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+482;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+483;"Ganz normal, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+484;"Also grad ehrlich ziemlich traurig, mein Kater ist grad sehr krank und der Tierarzt gibt uns nicht viel Hoffnung, das macht mich grad sehr fertig.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.8
+485;"Klasse Laune, alles läuft grad super!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+486;"Es geht mir okay, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+487;"Also grad total dankbar, hab heut so eine schöne Nachricht von meiner Tochter bekommen, einfach nur 'ich liebe dich Mama', das reicht schon um den ganzen Tag zu retten.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+488;"Genervt von allem grad, stressiger Tag heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+489;"Ganz zufrieden, ruhiger normaler Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+490;"Also grad ehrlich richtig verletzlich, hab grad zum ersten Mal über meine Panikattacken gesprochen in der Selbsthilfegruppe, war schwer, aber auch befreiend zugleich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+491;"Fröhlich und beschwingt, guter Tag bisher!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+492;"Ganz okay, wie jeden Tag.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+493;"Also grad total erschöpft, Prüfungsphase läuft grad auf Hochtouren, kaum Schlaf seit Tagen, aber ich seh grad schon das Licht am Ende des Tunnels.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+494;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+495;"Es geht, normaler Tag halt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+496;"Also grad ziemlich stolz, mein erstes selbstgekochtes Drei-Gänge-Menü ist heut geglückt, für den ganzen Freundeskreis, das freut mich grad wirklich.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+497;"Ruhig und ausgeglichen, schöner Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+498;"Also grad ein bisschen nervös vorm Zahnarzttermin morgen, kindisch vielleicht, aber ist halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;3;0.0;0.6
+499;"Top drauf, richtig gute Laune heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+500;"Ganz gut, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+501;"Joa, passt schon, nix Neues.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+502;"Weißt du, ich häng grad irgendwie fest zwischen zwei Gefühlen. Freu mich riesig auf die Hochzeit meiner Tochter nächsten Monat, aber gleichzeitig macht mich der Gedanke, dass sie jetzt wirklich erwachsen ist und auszieht, schon ein bisschen traurig, so'n richtiges Wechselbad grad.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0.6;0.3
+503;"Frisch, guter Start in den Tag gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+504;"Puh, ich könnt grad echt platzen vor Wut. Mein Kollege hat sich wieder mit meiner Idee gebrüstet in der Besprechung, als wär's seine gewesen, sowas macht mich einfach fuchsteufelswild.";0;0;0;0;5;0;0;0;4;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+505;"Bombe! Bester Tag seit Ewigkeiten heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+506;"Hm, na ja, irgendwie neutral grad, weder Fisch noch Fleisch.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+507;"Ich sitz grad einfach nur da und genieß die Ruhe, weißt du, Kinder sind bei Oma, endlich mal Stille im Haus.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+508;"Verkatert, ehrlich, und dementsprechend auch schlecht drauf heute.";0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.3
+509;"Zufrieden würd ich sagen, kleine Erfolge heute gehabt bei der Arbeit.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+510;"Läuft, kann mich nicht beklagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+511;"Also, ehrlich, mir raucht grad echt der Kopf. Zu viele Entscheidungen auf einmal, Job, Wohnung, Beziehung, alles steht grad irgendwie zur Debatte und ich weiß nicht wo ich anfangen soll damit.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.4
+512;"Beschwingt heut, kleiner Spaziergang hat gutgetan.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+513;"Es geht, wie's grad halt so geht.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+514;"Ich muss echt sagen, ich bin grad zum ersten Mal seit Wochen wieder richtig entspannt. Therapie zahlt sich langsam aus, glaub ich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+515;"Angepisst, sorry für den Ausdruck, aber genau so fühlt sich's grad an.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+516;"Alles im grünen Bereich bei mir, danke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+517;"Grübelnd irgendwie, denk grad viel über meine Zukunft nach, keine Panik, nur viele Gedanken.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+518;"Herrlich! Einfach nur herrlich heute, kann nicht anders sagen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+519;"Es geht mir soweit gut, keine Beschwerden.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+520;"Puh, ich bin grad total am Rotieren, drei Deadlines gleichzeitig und ich weiß grad nicht wo mir der Kopf steht, aber irgendwie schaff ich's ja immer, also, ja.";0;3;0;0;0;0;0;0;0;0;0;3;0;0;0;3;0;0;4;0;0.0;1.0
+521;"Ganz passabel, kein Grund zur Sorge.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+522;"Gerührt bin ich grad, meine Schwiegermutter hat mir grad das Rezept meiner verstorbenen Schwiegermutter äh, sorry, meiner Oma vermacht, total unerwartet, hat mich schon zu Tränen gerührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+523;"Munter heut, gut geschlafen für einmal.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+524;"Okay soweit, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+525;"Also ich muss ehrlich zugeben, ich bin grad ziemlich neidisch auf meine Cousine, die grad überall hinreist während ich hier festsitz, weiß dass es kindisch ist, aber ist halt so grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+526;"Freudestrahlend! Grad das beste Zeugnis meines Lebens bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+527;"Mittelmäßig, nix Aufregendes passiert heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+528;"Beklommen fühl ich mich grad, komisches Bauchgefühl wegen morgen, kann's nicht richtig greifen warum.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.6
+529;"Top zufrieden, alles läuft grad nach Plan!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+530;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+531;"Also ich bin grad, hm, ehrlich ziemlich hilflos. Meine Mutter hat grad Demenz diagnostiziert bekommen und ich weiß einfach nicht wie ich als Kind damit umgehen soll, das überfordert mich grad komplett.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0.0;1.3
+532;"Beschaulich, ruhiger Nachmittag im Garten gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+533;"Ganz gut, alles beim Alten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+534;"Also ich fühl grad so'n leichtes Kribbeln vor Aufregung, erstes Date seit Langem heut Abend, bin gespannt wie's läuft.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;2;0;0;0;0;0.6;0.2
+535;"Mies drauf, ehrlich gesagt, alles nervt grad.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+536;"Zufrieden und ausgeglichen, guter Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+537;"Puh, also ich bin grad ziemlich fassungslos. Hab grad erfahren dass mein bester Freund seit Jahren mich betrogen hat, geschäftlich, und ich weiß grad überhaupt nicht wie ich das einordnen soll.";0;4;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;1.1
+538;"Beflügelt! Neuer Job startet nächste Woche!";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+539;"Es geht mir okay, denk ich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+540;"Also leicht bedrückt grad, das Wetter drückt schon irgendwie aufs Gemüt diese Woche.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+541;"Klasse drauf, alles läuft wie am Schnürchen heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+542;"Ganz normal, nix Besonderes zu berichten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+543;"Also grad ziemlich gerührt und dankbar zugleich, meine alten Nachbarn haben mir heut spontan Essen vorbeigebracht, weil sie wussten dass ich krank bin, sowas gibt's ja kaum noch.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+544;"Genervt, Nachbarschaftsstreit schon wieder eskaliert heute.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+545;"Ruhig, entspannter Feierabend heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+546;"Also ich bin grad ehrlich ein bisschen ratlos, mein Kind will grad die Schule abbrechen und ich weiß nicht wie ich reagieren soll, ohne dass es eskaliert.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+547;"Strahlend gute Laune heut, kein Grund nötig!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+548;"Ganz okay, wie jeden Tag eben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+549;"Also grad total erleichtert, endlich das Gutachten bekommen und es ist positiv ausgefallen, das war 'ne riesige Last die grad abgefallen ist.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+550;"Passt schon, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+551;"Es geht, nix Neues zu berichten.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+552;"Also weißt du, ich bin grad irgendwie in so 'ner Schwebe. Warte auf Ergebnisse von der Bewerbung, dritte Runde schon, und diese Ungewissheit zehrt echt an einem, mal hoffnungsvoll, mal denk ich mir, ach vergiss es eh.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.6
+553;"Frisch und ausgeruht heut, guter Schlaf gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+554;"Also ich könnt grad echt schreien vor Frust. Die Handwerker sollten heut kommen, dritte Verschiebung jetzt schon, und meine Küche ist immer noch nicht fertig.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+555;"Überglücklich! Einfach nur überglücklich heut, alles passt grad!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+556;"Hm, na ja, so mittendrin irgendwie, nix Besonderes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+557;"Also grad bisschen wehmütig, letzte Kiste ausgepackt in der neuen Wohnung, das alte Zuhause fehlt trotz allem noch ein bisschen.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+558;"Aufgekratzt heut, Konzertkarten grad ergattert für meine Lieblingsband!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+559;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+560;"Also ich bin grad ehrlich total durch den Wind, mein Chef hat mir grad gekündigt, aus heiterem Himmel fast, ich weiß grad noch gar nicht wie mir geschieht.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;4;3;0.0;1.0
+561;"Ganz okay, alles im Rahmen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+562;"Also grad ziemlich stolz auf meine kleine Schwester, sie hat grad ihre erste eigene Wohnung bezogen, ganz allein organisiert, das macht mich schon happy für sie.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+563;"Genervt, Internet fällt schon den ganzen Tag aus.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+564;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+565;"Also grad ehrlich richtig besorgt, mein Vater hat grad seinen zweiten Herzinfarkt gehabt, liegt jetzt im Krankenhaus, und ich, ich fahr grad sofort hin, kann grad an nix anderes denken.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;5;0.0;1.3
+566;"Fantastisch! Bester Tag der Woche bis jetzt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+567;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+568;"Also grad total gerührt, mein Team hat mir heut ganz spontan gedankt für die letzten Jahre, mit 'ner kleinen Karte und allem, das hat mich echt überrascht und berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+569;"Angespannt, wichtiges Meeting steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+570;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+571;"Also ich bin grad, hm, ziemlich unentschlossen was die Trennung angeht, manchmal denk ich's ist richtig, dann wieder zweifel ich total, ist grad echt ein Hin und Her in meinem Kopf.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.4
+572;"Beschwingt, schöner Spaziergang am Morgen gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+573;"Es geht mir okay, nix zu meckern.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+574;"Also grad total euphorisch, meine erste eigene Ausstellung wurde grad in der Zeitung erwähnt, positiv sogar, das ist grad einfach ein Traum der wahr wird.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+575;"Müde, lange Nachtschicht hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+576;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+577;"Also grad ein bisschen unsicher, ob ich die richtige Entscheidung mit dem Studienwechsel getroffen hab, zweifel schon manchmal, aber will's jetzt durchziehen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+578;"Top Laune, richtig guter Start in den Tag!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+579;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+580;"Also grad ehrlich ziemlich verzweifelt, meine Panikattacken werden grad wieder schlimmer, ich weiß grad nicht mehr genau wie ich damit umgehen soll, obwohl ich's schon mal im Griff hatte.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;4;0.0;1.3
+581;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+582;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+583;"Also grad ziemlich dankbar, meine beste Freundin hat mich grad einfach so zum Essen eingeladen, aus dem Nichts, sowas tut echt gut wenn man's grad braucht.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+584;"Genervt von der Baustelle vor meinem Fenster grad.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+585;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+586;"Also grad total nervös, mein erstes eigenes Seminar heut vor über hundert Leuten, die Aufregung steigt schon merklich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+587;"Klasse drauf, alles läuft grad richtig gut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+588;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+589;"Also grad ehrlich richtig traurig, meine Großtante ist heut friedlich eingeschlafen, mit neunzig Jahren, ein erfülltes Leben, aber trotzdem tut der Abschied weh.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+590;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+591;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+592;"Also grad total wütend auf die Situation im Job, schon wieder Überstunden angeordnet ohne Vorwarnung, langsam reicht's mir echt.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+593;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+594;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+595;"Also grad ein bisschen besorgt um meine Nichte, sie hat grad Ärger in der Schule und ich weiß nicht wie ich als Tante am besten helfen kann.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+596;"Super motiviert heute, freu mich auf die neue Herausforderung!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+597;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+598;"Also grad total glücklich, mein bester Freund hat mich grad zum Trauzeugen gefragt, das ehrt mich grad wirklich sehr.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+599;"Müde, aber zufrieden mit dem Tag heute.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+600;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+601;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+602;"Also weißt du, ich bin grad ehrlich in so 'nem komischen Zustand, freu mich riesig auf den neuen Job, aber gleichzeitig, äh, plagt mich schon dieses Gefühl, die alten Kollegen zu verlassen, mit denen ich Jahre zusammengearbeitet hab, so'n bittersüßes Gefühl grad.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0.6;0.3
+603;"Frisch und wach heute, gut geschlafen gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+604;"Also ich bin grad echt sauer, mein Nachbar lässt seinen Hund wieder auf meinem Rasen machen, dritte Mal diese Woche, langsam reicht's mir.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+605;"Wahnsinnig gut drauf! Bin heut zum ersten Mal Oma geworden!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+606;"Hm, na ja, so mittel eigentlich, nix Besonderes.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+607;"Also grad etwas wehmütig, mein Sohn zieht heut endgültig aus, das Kinderzimmer ist jetzt leer, komisches Gefühl trotz aller Vorfreude für ihn.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+608;"Aufgedreht heut, endlich die Konzerttickets in der Hand!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+609;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+610;"Also ich bin grad ehrlich total geschockt, mein bester Freund hat mir grad erzählt dass er schwer krank ist, ich weiß grad überhaupt nicht wie ich das verarbeiten soll.";0;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;4;0;0.0;1.3
+611;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+612;"Also grad ziemlich stolz auf mich, hab heut endlich mein Studium beendet nach sieben langen Jahren, fühlt sich grad einfach unglaublich an.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+613;"Genervt, Drucker streikt schon den ganzen Vormittag.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+614;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+615;"Also grad ehrlich richtig besorgt, meine Tochter ist grad allein unterwegs im Ausland und meldet sich seit zwei Tagen nicht, ich mach mir grad große Sorgen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+616;"Fantastisch! Bester Urlaubstag bis jetzt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+617;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+618;"Also grad total gerührt, meine Kollegen haben mir grad zum Geburtstag ein Fotoalbum geschenkt, mit Erinnerungen aus zehn Jahren zusammen, hat mich echt zu Tränen gerührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+619;"Angespannt, große Präsentation steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+620;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+621;"Also ich bin grad, hm, ziemlich unentschlossen wegen dem Umzug, manchmal denk ich's ist die richtige Entscheidung, dann wieder zweifel ich total dran.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+622;"Beschwingt, schöner Radausflug heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+623;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+624;"Also grad total euphorisch, hab grad die Zusage für mein Traumstudium bekommen, nach Jahren der Vorbereitung, unbeschreiblich schönes Gefühl grad.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+625;"Müde, lange Schicht heut gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+626;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+627;"Also grad ein bisschen unsicher wegen der neuen Beziehung, ist noch früh und ich weiß nicht genau wo's hinführt, aber positiv gestimmt grad.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0.6;0.0
+628;"Top Laune, richtig guter Start heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+629;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+630;"Also grad ehrlich ziemlich verzweifelt, die Kündigungswelle in der Firma trifft grad auch mich, ich weiß grad nicht wie's weitergehen soll mit über fünfzig.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0.0;1.0
+631;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+632;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+633;"Also grad ziemlich dankbar, meine Schwester ist grad extra angereist um mir bei der Renovierung zu helfen, sowas bedeutet mir grad extrem viel.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+634;"Genervt von der Hitze grad, kaum auszuhalten diese Woche.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+635;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+636;"Also grad total nervös, meine Doktorarbeit wird grad verteidigt in einer Stunde, die Aufregung ist grad kaum zu bändigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;3;0.0;0.8
+637;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+638;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+639;"Also grad ehrlich richtig traurig, mein langjähriger Chef ist grad plötzlich verstorben, das ganze Team ist grad noch geschockt davon.";0;5;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;4;0;0.0;1.3
+640;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+641;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+642;"Also grad total wütend, mein Vermieter will mir grad ohne triftigen Grund kündigen, das ist grad einfach nur dreist.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+643;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+644;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+645;"Also grad ein bisschen besorgt um meinen Vater, er wirkt grad vergesslicher als sonst, das macht mir schon Sorgen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+646;"Super motiviert heute, freu mich schon auf die Reise!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+647;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+648;"Also grad total glücklich, meine beste Freundin hat grad Ja gesagt bei ihrem Antrag, ich war grad live dabei, so ein schöner Moment.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+649;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+650;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+651;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+652;"Also weißt du, ich bin grad total zwiegespalten. Meine beste Freundin hat mich grad gefragt, ob ich Trauzeugin sein will, freu mich riesig, aber gleichzeitig, äh, hab ich schon Bammel vor der ganzen Organisation, die da auf mich zukommt, so'n Mix aus Ehre und Panik grad.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;3;0.6;0.9
+653;"Frisch und motiviert heute, guter Start gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.4;0.0
+654;"Also ich bin grad echt genervt, meine Kollegin kommt schon wieder zu spät zum Meeting, dritte Mal diese Woche, langsam wird's echt unhöflich.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+655;"Überwältigt vor Glück! Grad mein erstes eigenes Kind geboren!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+656;"Hm, na ja, so mittel eigentlich, nix Aufregendes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+657;"Also grad etwas wehmütig, hab grad das Elternhaus meiner Kindheit zum letzten Mal besucht vorm Verkauf, viele Erinnerungen kommen grad hoch.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+658;"Aufgeregt heut, erstes Vorstellungsgespräch seit Jahren steht bevor!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+659;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+660;"Also ich bin grad ehrlich total fassungslos, mein Bruder hat mir grad erzählt dass er sich scheiden lässt, nach nur zwei Jahren Ehe, ich weiß grad gar nicht was ich sagen soll.";0;4;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;4;0;0.0;1.3
+661;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+662;"Also grad ziemlich stolz auf meinen Neffen, er hat grad sein erstes eigenes Fahrrad ohne Stützräder gefahren, kleine Momente die einen einfach glücklich machen.";0;0;0;4;0;0;0;0;0;0;5;0;4;0;0;0;0;0;0;0;1.3;0.0
+663;"Genervt, WLAN streikt schon den ganzen Tag.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+664;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+665;"Also grad ehrlich richtig besorgt, mein Sohn ist grad seit Stunden nicht erreichbar und normalerweise meldet er sich immer, ich mach mir grad große Sorgen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+666;"Fantastisch! Bester Tag im Urlaub bis jetzt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+667;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+668;"Also grad total gerührt, meine alte Grundschullehrerin hat mir grad auf Social Media geschrieben, nach zwanzig Jahren, erinnert sich noch an mich, das rührt mich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+669;"Angespannt, wichtiger Gerichtstermin steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+670;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+671;"Also ich bin grad, hm, ziemlich unentschlossen wegen der Jobzusage, gutes Gehalt, aber weit weg von der Familie, schwierige Entscheidung grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+672;"Beschwingt, schöner Ausflug ans Meer heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+673;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+674;"Also grad total euphorisch, hab grad das Rennen gewonnen, nach jahrelangem Training, unbeschreibliches Gefühl grad, kann's noch gar nicht fassen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+675;"Müde, lange Doppelschicht heut gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+676;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+677;"Also grad ein bisschen unsicher wegen der neuen Diagnose, muss noch mehr Untersuchungen machen, aber versuch positiv zu bleiben grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+678;"Top Laune, richtig guter Start in den Tag heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+679;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+680;"Also grad ehrlich ziemlich verzweifelt, die Scheidung zieht sich jetzt schon über zwei Jahre und ich bin grad einfach nur müde von dem ganzen Kampf.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+681;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+682;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+683;"Also grad ziemlich dankbar, mein Sohn hat mir grad spontan beim Umzug geholfen, ohne dass ich fragen musste, macht mich schon stolz auf ihn.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+684;"Genervt von der Lärmbelästigung grad, seit Tagen schon.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+685;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+686;"Also grad total nervös, mein erstes eigenes Buch wird grad heut Abend vorgestellt, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+687;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+688;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+689;"Also grad ehrlich richtig traurig, mein alter Schulfreund ist grad bei einem Unfall gestorben, das ganze Dorf ist grad noch geschockt davon.";0;5;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.9
+690;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+691;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+692;"Also grad total wütend, meine Versicherung will grad nicht zahlen trotz klarer Zusage, das ist grad einfach nur unfair.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+693;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+694;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+695;"Also grad ein bisschen besorgt um meine beste Freundin, sie klingt grad am Telefon so anders, weiß nicht was los ist.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+696;"Super motiviert heute, freu mich schon auf den neuen Anfang!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+697;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+698;"Also grad total glücklich, mein Vater ist grad nach der Operation wohlauf aufgewacht, so eine Erleichterung grad.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+699;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+700;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+701;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+702;"Also weißt du, ich bin grad echt in so 'ner Zwickmühle. Krieg grad die Chance auf ein Sabbatical, wovon ich immer geträumt hab, aber gleichzeitig, äh, macht mir das finanzielle Risiko schon Angst, hin- und hergerissen grad zwischen Traum und Vernunft.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;3;0.6;0.9
+703;"Frisch und wach heute, guter Schlaf gehabt endlich.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+704;"Also ich bin grad ehrlich stinksauer, mein Paket ist schon wieder beim falschen Nachbarn gelandet, dritte Mal diesen Monat.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+705;"Überglücklich! Grad meine Doktorarbeit erfolgreich verteidigt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+706;"Hm, na ja, so mittel grad, nix Besonderes los.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+707;"Also grad etwas wehmütig, letzte Nacht in der alten WG vorm Auszug, viele schöne Erinnerungen hier gehabt.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+708;"Aufgeregt heut, erste eigene Wohnungsbesichtigung steht bevor!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+709;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+710;"Also ich bin grad ehrlich total überrumpelt, meine Firma wurde grad verkauft, keine Ahnung was das für meinen Job bedeutet, macht mir schon Sorgen.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;3;0.0;0.9
+711;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+712;"Also grad ziemlich stolz auf meine Tochter, sie hat grad ihren Schwarzen Gürtel im Karate bekommen, jahrelanges Training hat sich gelohnt.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+713;"Genervt, Zug schon wieder ausgefallen heute morgen.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+714;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+715;"Also grad ehrlich richtig besorgt, mein Hund frisst seit Tagen nix mehr, morgen geht's zum Tierarzt, hoffentlich nix Ernstes.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+716;"Fantastisch! Bester Geburtstag seit Jahren heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+717;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+718;"Also grad total gerührt, mein alter Nachbar hat mir grad ein handgeschriebenes Dankesschreiben vorbeigebracht, für die kleine Hilfe neulich, rührt mich schon sehr.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+719;"Angespannt, wichtiges Kundengespräch steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+720;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+721;"Also ich bin grad, hm, ziemlich unentschlossen wegen dem Hauskauf, große Entscheidung grad und ich weiß nicht ob's das Richtige ist grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+722;"Beschwingt, schöner Bergausflug heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+723;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+724;"Also grad total euphorisch, hab grad den Wettbewerb gewonnen, an dem ich monatelang gearbeitet hab, unbeschreibliches Gefühl grad.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+725;"Müde, lange Autofahrt heut gehabt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+726;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+727;"Also grad ein bisschen unsicher wegen dem neuen Team bei der Arbeit, kenn noch keinen richtig, aber bin offen dafür.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+728;"Top Laune, richtig guter Start in die Woche heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+729;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+730;"Also grad ehrlich ziemlich verzweifelt, meine Schlafstörungen werden grad schlimmer, seit Wochen kaum erholsamer Schlaf mehr, zehrt schon ordentlich an mir.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+731;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+732;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+733;"Also grad ziemlich dankbar, meine Kollegen haben grad für mich eingesprungen als ich krank war, sowas zeigt einem wie gut man's eigentlich hat.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+734;"Genervt von der Baustelle vorm Haus grad, seit Wochen schon.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+735;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+736;"Also grad total nervös, meine erste eigene Kochshow-Teilnahme heut Abend, die Aufregung ist grad kaum zu bändigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;
+737;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+738;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+739;"Also grad ehrlich richtig traurig, meine langjährige Katze musste grad eingeschläfert werden, das Haus fühlt sich grad so leer an.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+740;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+741;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+742;"Also grad total wütend, meine Nachbarn beschweren sich schon wieder grundlos beim Vermieter über mich, langsam reicht's mir echt.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+743;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+744;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+745;"Also grad ein bisschen besorgt um meinen Sohn, er wirkt grad zurückgezogener als sonst, hoffe es ist nur 'ne Phase.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+746;"Super motiviert heute, freu mich schon auf die neue Herausforderung!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+747;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+748;"Also grad total glücklich, meine Schwester ist grad wohlbehalten von der Weltreise zurückgekommen, so eine Erleichterung sie wiederzusehen.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+749;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+750;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+751;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+752;"Also weißt du, ich bin grad echt hin- und hergerissen. Bekomm grad die Chance, ins Ausland zu ziehen für den Job, super Angebot eigentlich, aber gleichzeitig, äh, meine ganze Familie ist hier, das macht die Entscheidung grad echt schwer für mich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+753;"Frisch und ausgeruht heute, gut geschlafen für einmal.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+754;"Also ich bin grad ehrlich richtig angefressen, mein Vertrag wurde grad ohne Vorwarnung geändert, einfach so, das geht doch nicht.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+755;"Überglücklich! Grad die Zusage für die Traumwohnung bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+756;"Hm, na ja, so mittel grad, nix Aufregendes los heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+757;"Also grad etwas wehmütig, letzter Tag im Kindergarten für meine Tochter heut, nächstes Jahr kommt schon die Schule, geht alles so schnell.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+758;"Aufgeregt heut, erste eigene Radiosendung geht heut Abend auf Sendung!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+759;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+760;"Also ich bin grad ehrlich total überfordert, meine Mutter braucht grad plötzlich viel mehr Pflege, und ich, ich weiß grad nicht wie ich das alles unter einen Hut bringen soll, Job und Pflege gleichzeitig.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0.0;0.7
+761;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+762;"Also grad ziemlich stolz auf meinen Sohn, er hat grad seine erste eigene Band gegründet, so viel Leidenschaft dahinter, freut mich total.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+763;"Genervt, Aufzug schon wieder kaputt heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+764;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+765;"Also grad ehrlich richtig besorgt, mein Bruder ist grad seit Tagen nicht erreichbar, das ist so gar nicht seine Art, ich mach mir grad große Sorgen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+766;"Fantastisch! Bester Ausflug seit Langem heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+767;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+768;"Also grad total gerührt, meine Schüler haben mir grad zum Abschied eine selbstgeschriebene Karte geschenkt, nach fünf Jahren als Klassenlehrerin, hat mich echt zu Tränen gerührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+769;"Angespannt, wichtige Verhandlung steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+770;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+771;"Also ich bin grad, hm, ziemlich unentschlossen wegen der Adoption, große Entscheidung grad, viele Gefühle gleichzeitig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+772;"Beschwingt, schöner Waldspaziergang heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+773;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+774;"Also grad total euphorisch, mein Sohn hat grad seinen ersten Job bekommen, nach vielen Absagen endlich die Zusage, so froh für ihn grad.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+775;"Müde, lange Nachtschicht heut hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+776;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+777;"Also grad ein bisschen unsicher wegen der neuen Rolle im Job, mehr Verantwortung, hoffe ich werd dem gerecht.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+778;"Top Laune, richtig guter Start in den Monat heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+779;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+780;"Also grad ehrlich ziemlich verzweifelt, meine Rückenschmerzen werden grad chronisch, schon Monate ohne richtige Besserung, zehrt echt an einem.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+781;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+782;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+783;"Also grad ziemlich dankbar, meine Tochter hat mir grad ganz spontan beim Umzug geholfen, ohne dass ich fragen musste.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+784;"Genervt von der Stadtbaustelle grad, seit Monaten schon Umleitung.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+785;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+786;"Also grad total nervös, mein erstes eigenes Theaterstück wird grad heut Abend uraufgeführt, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+787;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+788;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+789;"Also grad ehrlich richtig traurig, mein alter Musiklehrer ist grad verstorben, hat mich so geprägt damals, das trifft mich schon sehr.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+790;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+791;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+792;"Also grad total wütend, meine Bank hat grad ohne Ankündigung Gebühren erhöht, das ist grad einfach nur dreist.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+793;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+794;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+795;"Also grad ein bisschen besorgt um meine Großmutter, sie war grad gestürzt, aber zum Glück nix gebrochen.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.6
+796;"Super motiviert heute, freu mich schon auf den Marathon nächste Woche!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+797;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+798;"Also grad total glücklich, mein bester Freund ist grad Vater geworden, so eine Freude für ihn und seine Familie.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+799;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+800;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+801;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+802;"Also weißt du, ich bin grad echt zwiegespalten. Hab grad die Diagnose bekommen, dass es doch nicht so schlimm ist wie befürchtet, riesige Erleichterung eigentlich, aber gleichzeitig, äh, muss ich jetzt erstmal verarbeiten, wie sehr mich die Angst der letzten Wochen mitgenommen hat, komisches Gefühl grad.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;3;3;0.6;0.9
+803;"Frisch und motiviert heute, guter Start in die Woche gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.4;0.0
+804;"Also ich bin grad ehrlich ziemlich verärgert, mein Flug wurde schon wieder gestrichen, zweites Mal diesen Monat, echt zum Verzweifeln.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+805;"Überglücklich! Grad das Haus meiner Träume gefunden!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+806;"Hm, na ja, so mittel grad, nix Besonderes los heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+807;"Also grad etwas wehmütig, hab grad meine alte Schuluniform gefunden beim Aufräumen, viele Erinnerungen kommen grad hoch.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+808;"Aufgeregt heut, erste eigene Kunstausstellung eröffnet heut Abend!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+809;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+810;"Also ich bin grad ehrlich total geplättet, mein bester Freund hat mir grad gestanden dass er in mich verliebt ist, nach zehn Jahren Freundschaft, ich weiß grad überhaupt nicht wie ich reagieren soll.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0.0;0.5
+811;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+812;"Also grad ziemlich stolz auf meine Mutter, sie hat grad mit siebzig ihren Computerkurs erfolgreich abgeschlossen, nie zu spät um was Neues zu lernen.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+813;"Genervt, Heizung schon wieder kaputt heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+814;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+815;"Also grad ehrlich richtig besorgt, meine Freundin hat grad einen Autounfall gehabt, sie ist okay, aber der Schreck sitzt grad noch tief.";0;4;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0;3;0.0;1.0
+816;"Fantastisch! Bester Restaurant-Besuch seit Langem heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+817;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+818;"Also grad total gerührt, meine Tochter hat mir grad ihr erstes selbstverdientes Geld geschenkt für meinen Geburtstag, kleine Geste, große Wirkung.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+819;"Angespannt, wichtiges Bewerbungsgespräch steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+820;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+821;"Also ich bin grad, hm, ziemlich unentschlossen wegen der Trennung von meinem Geschäftspartner, große Entscheidung grad, viele Konsequenzen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+822;"Beschwingt, schöner Fahrradausflug heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+823;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+824;"Also grad total euphorisch, meine Tochter hat grad ihren Universitätsabschluss mit Auszeichnung gemacht, so stolz grad auf sie.";0;0;0;5;0;0;0;0;0;0;5;0;5;0;0;0;0;0;0;0;1.5;0.0
+825;"Müde, lange Reise heut hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+826;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+827;"Also grad ein bisschen unsicher wegen der neuen Diät, weiß nicht ob's wirklich hilft, aber versuch's mal.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+828;"Top Laune, richtig guter Start in den Tag heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+829;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+830;"Also grad ehrlich ziemlich verzweifelt, meine Schlaflosigkeit wird grad immer schlimmer, keine Ahnung mehr was ich noch ausprobieren soll.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+831;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+832;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+833;"Also grad ziemlich dankbar, meine Nachbarin hat grad meine Blumen gegossen während meines Urlaubs, ganz ohne dass ich fragen musste.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+834;"Genervt von der Verkehrslage grad, seit Wochen schon Stau überall.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+835;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+836;"Also grad total nervös, mein erstes eigenes Café eröffnet heut Vormittag, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+837;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+838;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+839;"Also grad ehrlich richtig traurig, mein alter Studienfreund ist grad bei einem Bergunfall verstorben, das trifft mich schon sehr.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+840;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+841;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+842;"Also grad total wütend, meine Fluggesellschaft hat grad mein Gepäck verloren, dritte Mal diesen Sommer schon.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+843;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+844;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+845;"Also grad ein bisschen besorgt um meinen Onkel, er wurde grad ins Krankenhaus eingeliefert, hoffe es ist nix Ernstes.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+846;"Super motiviert heute, freu mich schon auf den neuen Kurs!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+847;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+848;"Also grad total glücklich, meine Nichte ist grad wohlbehalten aus dem Auslandsjahr zurückgekommen, so schön sie wiederzuhaben.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+849;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+850;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+851;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+852;"Also weißt du, ich bin grad echt zwiegespalten. Krieg grad die Möglichkeit, mein eigenes Café zu eröffnen, riesiger Traum eigentlich, aber gleichzeitig, äh, das finanzielle Risiko macht mir schon ziemlich Angst grad, zwischen Mut und Vorsicht hin- und hergerissen.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;3;4;0.6;1.0
+853;"Frisch und wach heute, guter Start in den Tag gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+854;"Also ich bin grad ehrlich ziemlich sauer, meine Waschmaschine ist grad schon wieder ausgelaufen, zweites Mal diesen Monat.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+855;"Überglücklich! Grad das Stipendium für die Doktorarbeit bekommen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+856;"Hm, na ja, so mittel grad, nix Aufregendes los heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+857;"Also grad etwas wehmütig, hab grad das letzte Bild vom alten Kindergarten meiner Tochter gesehen, wächst alles so schnell.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+858;"Aufgeregt heut, erste eigene Modeschau heut Abend!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+859;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+860;"Also ich bin grad ehrlich total durcheinander, meine Chefin hat mir grad ein riesiges Lob ausgesprochen vor dem ganzen Team, damit hab ich grad überhaupt nicht gerechnet.";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;4;0;0.6;0.4
+861;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+862;"Also grad ziemlich stolz auf meinen Vater, er hat grad mit fünfundsechzig seinen ersten Marathon gelaufen, unglaublich beeindruckend.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+863;"Genervt, Kühlschrank schon wieder kaputt heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+864;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+865;"Also grad ehrlich richtig besorgt, mein Neffe ist grad seit Stunden verschwunden, die ganze Familie sucht grad nach ihm.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+866;"Fantastisch! Bester Wanderausflug seit Langem heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+867;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+868;"Also grad total gerührt, mein alter Chef hat mir grad ein handgeschriebenes Empfehlungsschreiben geschickt, ganz unerwartet, hat mich schon berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+869;"Angespannt, wichtiges Mitarbeitergespräch steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+870;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+871;"Also ich bin grad, hm, ziemlich unentschlossen wegen der Erbschaft, komplizierte Familiensituation grad, viele Gefühle gleichzeitig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+872;"Beschwingt, schöner Sonnenuntergang heut am Strand gesehen.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+873;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+874;"Also grad total euphorisch, mein Sohn hat grad seinen ersten eigenen Roman veröffentlicht, so stolz grad auf ihn.";0;0;0;5;0;0;0;0;0;0;5;0;5;0;0;0;0;0;0;0;1.5;0.0
+875;"Müde, lange Zugfahrt heut hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+876;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+877;"Also grad ein bisschen unsicher wegen der neuen Therapieform, hoffe sie hilft mir mehr als die letzte.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+878;"Top Laune, richtig guter Start in den Sommer heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+879;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+880;"Also grad ehrlich ziemlich verzweifelt, meine Migräne wird grad immer häufiger, keine Ahnung mehr was ich noch ausprobieren soll dagegen.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+881;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+882;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+883;"Also grad ziemlich dankbar, mein Bruder ist grad extra aus dem Ausland angereist für meinen Geburtstag, hab ich echt nicht erwartet.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+884;"Genervt von der Nachbarschaftsbaustelle grad, seit Wochen schon Lärm.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+885;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+886;"Also grad total nervös, meine erste eigene Radioshow läuft grad heut Abend live, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+887;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+888;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+889;"Also grad ehrlich richtig traurig, meine alte Nachbarin ist grad im Schlaf verstorben, mit über neunzig, friedlich aber trotzdem ein Verlust.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+890;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+891;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+892;"Also grad total wütend, mein Internetanbieter hat grad ohne Ankündigung die Preise erhöht, das ist grad einfach nur dreist.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+893;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+894;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+895;"Also grad ein bisschen besorgt um meine Tante, sie wurde grad operiert, hoffe alles läuft gut.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+896;"Super motiviert heute, freu mich schon auf die neue Sprache die ich lerne!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+897;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+898;"Also grad total glücklich, mein Cousin ist grad wohlbehalten von der Expedition zurückgekommen, so eine Erleichterung.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+899;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+900;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+901;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+902;"Also weißt du, ich bin grad echt in so 'ner Zwickmühle. Bekomm grad das Angebot, das Familienunternehmen zu übernehmen, große Ehre eigentlich, aber gleichzeitig, äh, weiß ich nicht ob ich dem gerecht werden kann, so viel Verantwortung auf einmal, macht mir schon Bauchschmerzen grad.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;3;3;0.0;1.2
+903;"Frisch und ausgeruht heute, endlich mal durchgeschlafen.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0.8;0.0
+904;"Also ich bin grad ehrlich ziemlich angefressen, meine Zahnärztin hat grad meinen Termin abgesagt, dritte Verschiebung jetzt schon.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+905;"Überglücklich! Grad meinen ersten eigenen Verlag gegründet!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+906;"Hm, na ja, so mittel grad, nix Besonderes los heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+907;"Also grad etwas wehmütig, letzte Woche im alten Job vor der Rente, komisches Gefühl nach vierzig Jahren.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+908;"Aufgeregt heut, erste eigene Filmpremiere heut Abend!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+909;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+910;"Also ich bin grad ehrlich total baff, meine Tante hat mir grad erzählt, dass ich unerwartet erbe, damit hätt ich grad nie gerechnet.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;4;0;0.8;0.4
+911;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+912;"Also grad ziemlich stolz auf meine Enkelin, sie hat grad ihr erstes Gedicht veröffentlicht bekommen, mit gerade mal zwölf Jahren.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+913;"Genervt, Geschirrspüler schon wieder kaputt heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+914;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+915;"Also grad ehrlich richtig besorgt, meine Cousine hat grad einen schlimmen Autounfall gehabt, liegt grad im Krankenhaus, hoffe sie erholt sich bald.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+916;"Fantastisch! Bester Segelausflug seit Langem heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+917;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+918;"Also grad total gerührt, meine alten Studienfreunde haben mir grad ein Überraschungstreffen organisiert, nach zwanzig Jahren, hat mich sehr berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+919;"Angespannt, wichtige Klausur steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+920;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+921;"Also ich bin grad, hm, ziemlich unentschlossen wegen dem Pflegeheim für meinen Vater, schwere Entscheidung grad, viele Gefühle gleichzeitig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+922;"Beschwingt, schöner Herbstspaziergang heut gehabt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+923;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+924;"Also grad total euphorisch, meine Tochter hat grad ihre eigene Firma erfolgreich verkauft, so stolz grad auf sie.";0;0;0;5;0;0;0;0;0;0;5;0;5;0;0;0;0;0;0;0;1.5;0.0
+925;"Müde, lange Flugreise heut hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+926;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+927;"Also grad ein bisschen unsicher wegen der neuen Ernährungsumstellung, mal schauen ob's hilft.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+928;"Top Laune, richtig guter Start in den Herbst heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+929;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+930;"Also grad ehrlich ziemlich verzweifelt, meine Tinnitus wird grad immer lauter, keine Ahnung mehr was ich noch dagegen tun kann.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+931;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+932;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+933;"Also grad ziemlich dankbar, meine Enkel sind grad extra angereist für mein Jubiläum, hab ich echt nicht erwartet, freut mich riesig.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+934;"Genervt von der Dauerbaustelle grad, seit Monaten schon Chaos.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+935;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+936;"Also grad total nervös, meine erste eigene Galerie-Eröffnung heut Abend, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+937;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+938;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+939;"Also grad ehrlich richtig traurig, mein alter Mentor ist grad plötzlich verstorben, hat mich so geprägt in meiner Karriere, trifft mich schon sehr.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+940;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+941;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+942;"Also grad total wütend, meine Krankenkasse hat grad eine wichtige Behandlung abgelehnt, das ist grad einfach nur unfair.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+943;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+944;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+945;"Also grad ein bisschen besorgt um meinen Schwager, er wurde grad operiert, hoffe alles läuft glatt.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0.0;0.7
+946;"Super motiviert heute, freu mich schon auf den neuen Chor, dem ich beitrete!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+947;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+948;"Also grad total glücklich, meine Tochter ist grad wohlbehalten von der Weltreise zurückgekommen, so schön sie wiederzuhaben.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+949;"Müde, aber zufrieden mit dem heutigen Tag.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+950;"Ganz normal, alles im Rahmen heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+951;"Es geht, alles beim Alten heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+952;"Also weißt du, ich bin grad echt zwiegespalten. Krieg grad die Chance, mein Buchmanuskript bei einem großen Verlag einzureichen, riesige Chance eigentlich, aber gleichzeitig, äh, hab ich schon Angst vor der Ablehnung, nach so viel Herzblut das reingeflossen ist, komisches Gefühl grad zwischen Hoffnung und Angst.";0;3;0;3;0;0;0;0;0;0;0;0;3;0;0;0;0;0;3;3;0.6;0.9
+953;"Frisch und motiviert heute, guter Start in den neuen Monat gehabt.";4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.4;0.0
+954;"Also ich bin grad ehrlich ziemlich sauer, mein Nachbar hat grad wieder meinen Parkplatz zugestellt, dritte Mal diese Woche.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+955;"Überglücklich! Grad die letzte Rate für mein Haus abbezahlt!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+956;"Hm, na ja, so mittel grad, nix Besonderes los heut.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+957;"Also grad etwas wehmütig, letzte Trainingseinheit mit meinem alten Trainer vorm Vereinswechsel, viele gute Jahre gehabt.";0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.3
+958;"Aufgeregt heut, erste eigene Podcast-Folge geht heut online!";0;0;0;3;0;0;0;0;0;0;0;0;3;0;0;3;0;0;0;0;0.6;0.3
+959;"Es geht mir gut soweit, kann nicht klagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+960;"Also ich bin grad ehrlich total überwältigt, meine ganze Straße hat grad für mich eine Spendenaktion organisiert nach dem Wasserschaden, damit hätt ich grad nie gerechnet.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;4;0;1.0;0.4
+961;"Ganz okay, alles im Rahmen heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+962;"Also grad ziemlich stolz auf meinen Enkel, er hat grad sein erstes eigenes Startup gegründet, mit gerade mal zwanzig Jahren.";0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0.5;0.0
+963;"Genervt, Router schon wieder abgestürzt heute.";0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0.0;0.7
+964;"Ganz zufrieden, ruhiger Tag bisher gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+965;"Also grad ehrlich richtig besorgt, mein Schwager ist grad seit Tagen nicht erreichbar, die ganze Familie macht sich grad Sorgen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0.0;0.8
+966;"Fantastisch! Bester Kletterausflug seit Langem heut!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+967;"Es geht, wie immer eben so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+968;"Also grad total gerührt, meine alten Vereinskollegen haben mir grad ein Abschiedsgeschenk gemacht nach zwanzig Jahren im Club, hat mich sehr berührt.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+969;"Angespannt, wichtige Steuerprüfung steht grad bevor.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.0;0.3
+970;"Ganz gut, normaler Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+971;"Also ich bin grad, hm, ziemlich unentschlossen wegen dem Betreuungsplatz für meine Mutter, schwere Entscheidung grad, viele Gefühle gleichzeitig.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0.0;0.3
+972;"Beschwingt, schöner Wintermorgen heut mit frischem Schnee erlebt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+973;"Es geht mir okay, nix zu meckern grad.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+974;"Also grad total euphorisch, mein Sohn hat grad sein eigenes Restaurant eröffnet, so stolz grad auf ihn nach all der harten Arbeit.";0;0;0;5;0;0;0;0;0;0;5;0;5;0;0;0;0;0;0;0;1.5;0.0
+975;"Müde, lange Schichtwoche heut hinter mir.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+976;"Ganz normal, alles beim Alten heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+977;"Also grad ein bisschen unsicher wegen der neuen medizinischen Behandlung, hoffe sie schlägt gut an.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+978;"Top Laune, richtig guter Start ins neue Jahr heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+979;"Ganz okay, wie jeden Tag eigentlich.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+980;"Also grad ehrlich ziemlich verzweifelt, meine chronischen Schmerzen werden grad wieder schlimmer, keine Ahnung mehr was noch hilft.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+981;"Alles super, kann nicht klagen heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+982;"Es geht, normaler Tag halt gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+983;"Also grad ziemlich dankbar, meine ganze Familie ist grad zusammengekommen für die Feier, hab ich mir schon lang gewünscht.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+984;"Genervt von der langen Warteschlange beim Amt grad, den ganzen Vormittag.";0;0;0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.8
+985;"Ruhig und ausgeglichen, guter Tag heute gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+986;"Also grad total nervös, meine erste eigene Firma wird grad heut offiziell gegründet, die Aufregung ist grad kaum zu beschreiben.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;0;0.0;0.4
+987;"Klasse drauf, alles läuft grad richtig gut heute!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+988;"Ganz zufrieden, ruhiger normaler Tag heute.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+989;"Also grad ehrlich richtig traurig, meine alte Klavierlehrerin ist grad verstorben, hat mich so geprägt in meiner Kindheit, trifft mich schon sehr.";0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.5
+990;"Fröhlich und beschwingt, guter Tag bisher gewesen!";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+991;"Es geht mir gut, denk ich schon.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+992;"Also grad total wütend, meine Autowerkstatt hat grad wieder was falsch repariert, dritte Mal jetzt schon, echt zum Verzweifeln.";0;0;0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0.0;0.9
+993;"Alles bestens, danke der Nachfrage heute!";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+994;"Ganz gut soweit, normaler Tag gewesen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+995;"Also grad ein bisschen besorgt um meine Großtante, sie wurde grad ins Pflegeheim verlegt, hoffe sie fühlt sich wohl dort.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.4
+996;"Super motiviert heute, freu mich schon auf den neuen Sprachkurs den ich beginne!";4;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.2;0.0
+997;"Es geht, wie immer halt so.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+998;"Also grad total glücklich, mein Neffe ist grad wohlbehalten von der Weltumsegelung zurückgekommen, so eine Erleichterung ihn wiederzusehen.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+999;"Müde, aber zufrieden mit dem heutigen Tag, ein guter Abschluss.";0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0.3;0.0
+1000;"Ganz normal, alles im Rahmen heute gewesen, und irgendwie fühlt sich das grad auch völlig okay an.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.0;0.0
+1;"Seit dem peinlichen Patzer gestern im Meeting möchte ich mich am liebsten im Boden vergraben, ich trau mich kaum noch in die Kaffeeküche.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+2;"Ich sitze jetzt seit drei Stunden über diesem Buch und merke gar nicht, wie die Zeit vergeht, ich will einfach immer weiterlesen.";0;0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.8;0.0
+3;"Egal was passiert, ich habe mir fest vorgenommen, das bis Freitag fertigzubekommen, und ich lasse mich von nichts mehr ablenken.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;3;0;0;0.8;0.0
+4;"Wenn dieser Kollege noch einmal meine Ideen als seine ausgibt, dann kann ich für nichts mehr garantieren.";0;0;0;0;5;0;0;0;4;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+5;"Mein Kopf ist gerade so voller Gedanken und Ideen, ich würde am liebsten alles gleichzeitig aufschreiben.";0;0;3;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.8;0.3
+6;"Ich könnte den ganzen Tag singen, so gut geht es mir gerade mit meinem neuen Projekt.";0;0;0;4;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0.8;0.0
+7;"Meine Hände sind ganz feucht und ich laufe seit einer Stunde im Zimmer auf und ab, weil morgen die Prüfung ist.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;3;5;0.0;1.3
+8;"Ich habe heute einen Artikel gelesen und konnte danach gar nicht mehr aufhören, weiter darüber nachzudenken.";0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+9;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.9;0.0
+10;"Ich kann diesem Typen nicht mal mehr ins Gesicht sehen, ohne dass mir die Hutschnur platzt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+11;"Ich bin so vertieft in meine Recherche, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+12;"Ich platze fast vor Freude, weil ich heute die Zusage bekommen habe.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+13;"Ich bin heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+14;"Ich merke, wie mich das Gespräch mit ihr richtig beflügelt hat, ich habe danach sofort angefangen zu schreiben.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+15;"Ich schäme mich so, ich habe heute aus Versehen eine Nachricht an die falsche Person geschickt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+16;"Ich bin fest davon überzeugt, dass ich das schaffe, und ich werde jetzt jeden Tag daran arbeiten.";0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.9;0.0
+17;"Mein Magen zieht sich zusammen, wenn ich nur daran denke, dass ich morgen vortragen muss.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0;5;0.0;0.9
+18;"Ich bin völlig fasziniert von diesem Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+19;"Ich habe heute mit einer Kollegin gesprochen und danach so viele neue Ideen gehabt, dass ich sie sofort aufschreiben musste.";0;0;3;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+20;"Ich könnte platzen vor Glück, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+21;"Ich habe mich heute vor allen blamiert und würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+22;"Ich bin so neugierig auf das, was da kommt, ich kann es kaum erwarten.";0;0;5;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.9;0.0
+23;"Ich habe mir heute Morgen fest vorgenommen, mit dem Joggen anzufangen, und ich ziehe das jetzt durch.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+24;"Ich könnte diesem Nachbarn direkt die Tür eintreten, so sehr nervt er mich gerade.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+25;"Ich habe heute einen Vortrag gehört, der mich richtig beflügelt hat, ich bin voller Tatendrang.";4;0;0;4;0;4;0;0;0;4;0;0;0;0;0;0;0;0;0;0;1.6;0.0
+26;"Ich bin so begeistert von meinem neuen Hobby, dass ich gar nicht mehr aufhören will.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+27;"Meine Beine wackeln und ich muss ständig auf die Uhr schauen, weil ich so aufgeregt bin.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;3;4;0.0;1.2
+28;"Ich vergesse völlig die Zeit, wenn ich mich in dieses Thema vertiefe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;3;0;0;1.0;0.0
+29;"Ich habe mir geschworen, dass ich dieses Jahr endlich meine Angst überwinde.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+30;"Ich habe heute mitbekommen, wie jemand über mich gelästert hat, und ich könnte vor Wut platzen.";0;0;0;0;5;0;0;0;4;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+31;"In meinem Kopf sprudeln gerade so viele Ideen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+32;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+33;"Ich habe heute eine peinliche Frage gestellt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+34;"Ich bin so neugierig auf dieses Thema, dass ich sogar nachts davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+35;"Ich lasse mich nicht mehr ablenken, ich ziehe das jetzt durch.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+36;"Ich kann diese Person einfach nicht mehr ertragen, jedes Mal wenn ich sie sehe, kocht es in mir hoch.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+37;"Ich habe heute ein Buch gelesen und danach sofort angefangen, eigene Gedanken dazu aufzuschreiben.";0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;3;0;0;1.1;0.0
+38;"Ich bin voller Enthusiasmus für mein neues Projekt.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+39;"Mein Herz rast und ich habe weiche Knie, wenn ich an morgen denke.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;3;4;0.0;1.2
+40;"Ich könnte mich in Grund und Boden schämen, so peinlich war das gerade.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+41;"Ich bin so vertieft in meine Arbeit, dass ich die Zeit völlig vergesse.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+42;"Ich habe mir fest vorgenommen, dieses Mal nicht klein beizugeben.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+43;"Ich könnte vor Wut schreien, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+44;"Ich habe heute so viele neue Eindrücke gesammelt, dass ich sie gar nicht alle verarbeiten kann.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+45;"Ich bin so begeistert, ich könnte den ganzen Tag nur lächeln.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+46;"Ich habe heute einen Fehler gemacht und würde mich am liebsten verkriechen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+47;"Ich bin so neugierig auf das Ergebnis, ich kann kaum still sitzen.";0;0;5;3;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;0;0.8;0.3
+48;"Ich habe mir vorgenommen, das jetzt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+49;"Ich kann diesem Menschen nicht mehr begegnen, ohne innerlich zu kochen.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+50;"Ich bin so angeregt von dem Gespräch, dass ich die ganze Nacht darüber nachgedacht habe.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+51;"Ich bin heute Morgen aufgewacht und habe sofort an diese eine Sache gedacht, die mich seit Tagen nicht loslässt, und mein Bauch zieht sich sofort zusammen.";0;4;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;4;0.0;1.1
+52;"Ich bin in dieses neue Thema so tief eingetaucht, dass ich meine Verabredung glatt vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+53;"Ich habe mir vorgenommen, dieses Jahr auf jeden Fall noch etwas Neues zu lernen, und ich fange heute damit an.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+54;"Jedes Mal, wenn ich diesen Menschen sehe, dreht sich mir der Magen um.";0;0;0;0;3;0;0;0;5;0;0;3;0;0;0;0;0;0;0;0;0.0;1.1
+55;"Ich habe eben eine Doku gesehen und danach eine halbe Stunde nur dagestanden und nachgedacht.";0;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;3;0;0;1.1;0.0
+56;"Ich habe heute so viel geschafft, ich könnte vor Freude die ganze Wohnung umdekorieren.";4;0;0;5;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.3;0.0
+57;"Ich habe mir heute auf die Zunge gebissen und mich danach so sehr geärgert, dass ich rot angelaufen bin.";0;0;0;0;4;0;0;0;0;0;0;3;0;3;0;0;0;0;0;0;0.0;1.0
+58;"Ich lese gerade einen Roman und bin so gefesselt, dass ich nicht mehr aufhören kann.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+59;"Ich habe mir fest vorgenommen, dieses Gespräch noch diese Woche zu führen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+60;"Ich könnte diese Person am liebsten aus meinem Leben streichen, so sehr geht sie mir gegen den Strich.";0;0;0;0;5;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.4
+61;"Ich habe so viele Gedanken im Kopf, ich muss sie unbedingt aufschreiben, bevor sie wieder weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+62;"Ich habe heute die beste Nachricht seit Monaten bekommen und könnte Bäume ausreißen.";5;0;0;5;0;4;0;0;0;0;0;0;4;0;0;0;0;0;0;0;1.8;0.0
+63;"Ich habe heute etwas aus Versehen kaputt gemacht und mich dabei so unbeholfen angestellt, ich könnte mich verstecken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+64;"Ich habe ein neues Thema für mich entdeckt und verbringe jetzt jede freie Minute damit.";0;0;5;0;0;0;0;0;0;4;0;0;0;0;0;0;0;4;0;0;1.3;0.0
+65;"Ich habe mir heute Morgen geschworen, dass ich diese Angewohnheit jetzt endlich ablege.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+66;"Ich kann diesem Kollegen nicht mehr zuhören, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+67;"Ich habe einen Podcast gehört und danach sofort angefangen, eigene Notizen zu machen.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+68;"Ich bin heute so gut drauf, ich könnte den ganzen Tag nur tanzen.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+69;"Ich habe vorhin einen Fehler gemacht, der mir jetzt noch in den Knochen steckt, ich trau mich kaum noch was zu sagen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;3;0;0;0;0;0.0;0.8
+70;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+71;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+72;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+73;"Ich habe heute eine Idee bekommen, die mich so begeistert, dass ich sie sofort umsetzen will.";3;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.2;0.0
+74;"Ich bin heute so fröhlich, ich habe schon drei Leute angerufen, nur um Hallo zu sagen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+75;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+76;"Ich bin so neugierig auf diese Sache, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+77;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+78;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+79;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+80;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+81;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+82;"Ich bin so in dieses Buch vertieft, ich habe schon dreimal die Zeit vergessen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+83;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+84;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+85;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+86;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+87;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+88;"Ich bin so vertieft in meine Recherche, dass ich das Abendessen vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+89;"Ich habe mir vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+90;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+91;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+92;"Ich bin heute so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+93;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+94;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+95;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+96;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+97;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+98;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+99;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+100;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+101;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+102;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+103;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+104;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+105;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+106;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+107;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+108;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+109;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+110;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+111;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+112;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+113;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+114;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+115;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+116;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+117;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+118;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+119;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+120;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+121;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+122;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+123;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+124;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+125;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+126;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+127;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+128;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+129;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+130;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+131;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+132;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+133;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+134;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+135;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+136;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+137;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+138;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+139;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+140;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+141;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+142;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+143;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+144;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+145;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+146;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+147;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+148;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+149;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+150;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+151;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+152;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+153;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+154;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+155;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+156;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+157;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+158;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+159;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+160;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+161;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+162;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+163;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+164;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+165;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+166;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+167;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+168;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+169;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+170;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+171;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+172;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+173;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+174;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+175;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+176;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+177;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+178;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+179;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+180;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+181;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+182;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+183;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+184;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+185;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+186;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+187;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+188;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+189;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+190;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+191;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+192;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+193;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+194;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+195;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+196;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+197;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+198;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+199;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+200;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+201;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+202;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+203;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+204;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+205;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+206;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+207;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+208;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+209;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+210;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+211;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+212;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+213;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+214;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+215;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+216;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+217;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+218;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+219;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+220;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+221;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+222;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+223;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+224;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+225;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+226;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+227;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+228;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+229;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+230;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+231;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+232;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+233;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+234;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+235;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+236;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+237;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+238;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+239;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+240;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+241;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+242;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+243;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+244;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+245;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+246;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+247;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+248;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+249;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+250;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+251;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+252;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+253;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+254;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+255;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+256;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+257;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+258;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+259;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+260;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+261;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+262;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+263;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+264;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+265;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+266;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+267;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+268;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+269;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+270;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+271;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+272;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+273;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+274;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+275;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+276;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+277;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+278;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+279;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+280;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+281;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+282;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+283;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+284;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+285;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+286;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+287;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+288;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+289;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+290;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+291;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+292;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+293;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+294;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+295;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+296;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+297;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+298;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+299;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+300;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+301;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+302;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+303;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+304;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+305;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+306;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+307;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+308;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+309;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+310;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+311;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+312;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+313;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+314;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+315;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+316;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+317;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+318;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+319;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+320;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+321;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+322;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+323;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+324;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+325;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+326;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+327;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+328;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+329;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+330;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+331;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+332;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+333;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+334;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+335;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+336;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+337;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+338;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+339;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+340;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+341;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+342;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+343;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+344;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+345;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+346;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+347;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+348;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+349;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+350;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+351;"Ich habe heute Morgen vor lauter Unruhe schon um vier Uhr wachgelegen und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+352;"Ich bin so tief in diese Recherche eingetaucht, dass ich die Zeit völlig vergessen habe.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+353;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Angst zu überwinden.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+354;"Ich könnte diesen Kollegen direkt aus dem Fenster werfen, so sehr geht er mir auf die Nerven.";0;0;0;0;5;0;0;0;5;0;0;5;0;0;0;0;0;0;0;0;0.0;1.5
+355;"Ich habe heute so viele neue Ideen bekommen, ich muss sie sofort aufschreiben, bevor sie weg sind.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+356;"Ich bin so glücklich, ich könnte den ganzen Tag nur lächeln.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+357;"Ich habe mich heute so blamiert, ich würde am liebsten für den Rest des Tages verschwinden.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+358;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+359;"Ich habe mir geschworen, dass ich dieses Mal nicht aufgebe, komme was wolle.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+360;"Ich kann diesen Typen nicht mehr sehen, ohne dass mir innerlich alles hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+361;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+362;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
+363;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+364;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Nacht davon träume.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+365;"Ich habe mir heute vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+366;"Ich könnte vor Wut platzen, wenn ich an diese Ungerechtigkeit denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+367;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+368;"Ich bin so glücklich, ich könnte die ganze Welt umarmen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+369;"Ich habe mich heute vor allen blamiert und würde am liebsten im Erdboden versinken.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+370;"Ich bin so neugierig auf dieses Thema, ich könnte den ganzen Tag darüber lesen.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+371;"Ich habe heute Morgen vor lauter Aufregung schon um fünf aufgewacht und konnte nicht mehr einschlafen.";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;3;4;0.0;1.1
+372;"Ich bin so vertieft in meine Arbeit, dass ich das Mittagessen völlig vergessen habe.";0;0;4;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.1;0.0
+373;"Ich habe mir fest vorgenommen, dieses Jahr endlich meine Komfortzone zu verlassen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+374;"Ich kann diesem Menschen nicht mehr begegnen, ohne dass mir die Galle hochkommt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+375;"Ich habe heute so viele neue Gedanken, ich muss sie unbedingt aufschreiben.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;0;0;0.5;0.0
+376;"Ich bin so begeistert von meinem neuen Projekt, ich könnte den ganzen Tag daran arbeiten.";4;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.4;0.0
+377;"Ich habe heute etwas Peinliches erlebt und mich danach am liebsten versteckt.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+378;"Ich bin so interessiert an diesem Thema, dass ich sogar in der Mittagspause weiterlese.";0;0;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0;0.9;0.0
+379;"Ich habe mir heute geschworen, dass ich diese Sache jetzt durchziehe, egal wie schwer es wird.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+380;"Ich könnte diesen Kollegen direkt anschreien, so sehr nervt er mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+381;"Ich habe heute ein Gespräch geführt, das mich so beflügelt hat, dass ich danach sofort etwas Neues angefangen habe.";0;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;3;0;0;0;1.1;0.0
+382;"Ich bin so glücklich, ich könnte den ganzen Tag nur singen.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+383;"Ich habe mich heute so blamiert, ich würde am liebsten für eine Woche untertauchen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+384;"Ich bin so vertieft in dieses Buch, dass ich gar nicht merke, wie die Stunden vergehen.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+385;"Ich habe mir vorgenommen, dieses Jahr endlich das zu tun, wovor ich mich immer gedrückt habe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+386;"Ich könnte vor Zorn an die Decke gehen, sobald ich nur an diese Sache denke.";0;0;0;0;5;0;0;0;3;0;0;4;0;0;0;0;0;0;0;0;0.0;1.2
+387;"Ich habe heute so viele neue Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+388;"Ich bin so begeistert von dem, was ich heute gelernt habe, ich will es sofort weitererzählen.";0;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0.9;0.0
+389;"Ich habe heute einen Fehler gemacht, der mir jetzt noch peinlich ist, ich könnte mich ohrfeigen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+390;"Ich bin so neugierig auf dieses Thema, ich könnte stundenlang darüber reden.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;0.8;0.0
+391;"Ich habe mir heute fest vorgenommen, dieses Projekt bis zum Ende durchzuziehen.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+392;"Ich kann diesen Typen nicht mehr sehen, ohne dass es in mir brodelt.";0;0;0;0;4;0;0;0;5;0;0;4;0;0;0;0;0;0;0;0;0.0;1.3
+393;"Ich habe heute so viele neue Eindrücke gesammelt, ich muss sie erst mal sortieren.";0;0;0;0;0;0;0;0;0;4;0;0;0;0;0;0;0;0;3;0;0.4;0.3
+394;"Ich könnte vor Glück platzen, so schön war der heutige Tag.";0;0;0;5;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.0;0.0
+395;"Ich habe heute etwas Peinliches gesagt und mich danach sofort verkriechen wollen.";0;0;0;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0.0;0.5
+396;"Ich bin so in dieses Thema vertieft, dass ich gar nicht merke, wie die Zeit vergeht.";0;0;5;0;0;0;0;0;0;3;0;0;0;0;0;0;0;4;0;0;1.2;0.0
+397;"Ich habe mir heute geschworen, dass ich dieses Mal nicht aufgebe.";0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;0;5;0;0;0;0.8;0.0
+398;"Ich könnte diese Nachbarin direkt anschreien, so sehr nervt sie mich.";0;0;0;0;5;0;0;0;4;0;0;5;0;0;0;0;0;0;0;0;0.0;1.4
+399;"Ich habe heute so viele Ideen bekommen, ich weiß gar nicht, wo ich anfangen soll.";0;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;0;3;0;0.5;0.3
+400;"Ich bin so begeistert von meinem neuen Hobby, ich könnte den ganzen Tag damit verbringen.";4;0;0;4;0;0;0;0;0;0;0;0;5;0;0;0;0;0;0;0;1.3;0.0
