@@ -19,7 +19,7 @@ An optional Sentence-BERT cosine-similarity objective is used as an auxiliary tr
 
 | File | Description |
 |---|---|
-| `4way_plus_corr.ipynb` | Complete data preparation, training, validation, evaluation, plots, and model comparison |
+| `4way_plus_corr.ipynb` | Complete data preparation, training, validation, evaluation, plots, and model comparison, runs here: [google colab](https://drive.google.com/file/d/1ZzMNLMB-c8ojO1MCYl9D3Qh3VG_d1jC3/view?usp=sharing) |
 | `data4training_syn_deep_seek.csv` | Synthetic German training, validation, and test data |
 | `realdata.csv` | External real-world validation data with transcripts and self-reported PANAS ratings |
 | `ScaleAnalysis.html` | scale analysis and correlation |
