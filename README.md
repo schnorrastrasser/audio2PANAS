@@ -24,7 +24,20 @@ This model (`schnorrastrasser/audio2PANAS`) is a fine-tuned Multi-Task BERT arch
 Ensure you have PyTorch and the Hugging Face `transformers` library installed:
 
 ```bash
-pip install torch transformers
+import torch
+from transformers import AutoTokenizer, AutoModel
+
+# Define repository ID
+MODEL_ID = "schnorrastrasser/audio2PANAS"
+
+# Load Tokenizer & Model
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+model = AutoModel.from_pretrained(MODEL_ID, trust_remote_code=True)
+
+# Set model to evaluation mode
+model.eval()
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+model.to(device)
 ```
 ## Project Structure
 
