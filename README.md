@@ -22,6 +22,8 @@ An optional Sentence-BERT cosine-similarity objective is used as an auxiliary tr
 | `4way_plus_corr.ipynb` | Complete data preparation, training, validation, evaluation, plots, and model comparison |
 | `data4training_syn_deep_seek.csv` | Synthetic German training, validation, and test data |
 | `realdata.csv` | External real-world validation data with transcripts and self-reported PANAS ratings |
+| `ScaleAnalysis.html` | scale analysis and correlation |
+| `import.ipynb` | whisper transcription of audio data and PANAS matching from soscisurvey |
 
 
 ## Installation
