@@ -25,7 +25,7 @@ Ensure you have PyTorch and the Hugging Face `transformers` library installed:
 
 ```bash
 pip install torch transformers
-
+```
 ## Project Structure
 
 | File | Description |
