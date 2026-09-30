@@ -151,7 +151,7 @@ The core prompt was:
 >Die CSV-Struktur soll genau so aussehen:
 >ID;Antwort_Text
 >
->Bitte bestätige kurz, dass du die Aufgabe verstanden hast, und generiere dann direkt den CSV-Code für die IDs 1 bis 50.
+>Bitte bestätige kurz, dass du die Aufgabe verstanden hast und generiere dann direkt den CSV-Code für die IDs 1 bis 50.
 >
 >The subsequent labeling prompt instructed the language model to assign PANAS values from 1 to 5 only when the text provided explicit or clear indirect evidence. If there was not enough evidence, the item had to receive `0` (“not assessable”). This rule prevents the labels from inventing emotions that are not supported by the text.
 
