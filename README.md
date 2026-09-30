@@ -15,6 +15,17 @@ The project compares German BERT and DistilBERT models. Each model predicts, for
 
 An optional Sentence-BERT cosine-similarity objective is used as an auxiliary training signal.
 
+## 🚀 Usage / Schnellstart
+
+This model (`schnorrastrasser/audio2PANAS`) is a fine-tuned Multi-Task BERT architecture designed to predict item presence and Likert-scale intensity scores from text/audio-transcripts.
+
+### 1. Installation
+
+Ensure you have PyTorch and the Hugging Face `transformers` library installed:
+
+```bash
+pip install torch transformers
+
 ## Project Structure
 
 | File | Description |
